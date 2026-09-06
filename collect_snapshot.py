@@ -321,18 +321,17 @@ def parse_grades(text: str | None) -> set[str]:
     return found
 
 
-def grade_enum(st: dict[str, Any], grade: str, recent: list[dict]) -> str:
-    """Нормализованное поле: yes | no | unknown. Без домыслов."""
+def grade_inferred(st: dict[str, Any], grade: str) -> str:
+    """Вспомогательный эвристический флаг только по текущему /api/stations.
+
+    Не источник истины. Не смотрит историю комментариев.
+    yes | no | unknown
+    """
     parts = parse_grades(st.get("fuels_now"))
-    detail_grades: set[str] = set()
-    for c in recent[:5]:
-        if c.get("status") in ("yes", "queue", "low"):
-            detail_grades |= parse_grades(c.get("detail"))
-    reported = parts | detail_grades
-    if grade in reported:
+    if grade in parts:
         return "yes"
     status = st.get("status")
-    if reported and grade not in reported and status in ("yes", "queue", "low"):
+    if parts and grade not in parts and status in ("yes", "queue", "low"):
         return "no"
     if bool(st.get("dt_only")) and grade in ("92", "95", "98", "100") and status in (
         "yes",
@@ -341,20 +340,6 @@ def grade_enum(st: dict[str, Any], grade: str, recent: list[dict]) -> str:
     ):
         return "no"
     return "unknown"
-
-
-def normalize_comment(raw: dict[str, Any]) -> dict[str, Any]:
-    out: dict[str, Any] = {
-        "created_at": parse_api_time(raw.get("created_at")),
-        "detail": raw.get("detail") if raw.get("detail") is not None else None,
-        "status": raw.get("status") if raw.get("status") is not None else None,
-    }
-    # сохранить прочие исходные поля API без выдумывания
-    for key, value in raw.items():
-        if key in out:
-            continue
-        out[key] = value
-    return out
 
 
 def collect_stations(
@@ -380,7 +365,6 @@ def collect_stations(
                 by_id[oid] = st
         print(f"  bbox={len(stations)} unique_target={len(by_id)}", file=sys.stderr)
 
-    # filter by real distance to polyline
     near: dict[str, dict] = {}
     for oid, st in by_id.items():
         try:
@@ -400,13 +384,17 @@ def build_snapshot_station(
 ) -> dict[str, Any]:
     lat, lon = float(st["lat"]), float(st["lon"])
     dist, route_km = dist_and_s_on_polyline(lat, lon, poly)
-    recent_norm = [normalize_comment(c) for c in recent_raw]
 
-    last_at = None
-    last_detail = None
-    if recent_norm:
-        last_at = recent_norm[0].get("created_at")
-        last_detail = recent_norm[0].get("detail")
+    # Полностью сырые комментарии API (без интерпретации).
+    recent_comments = [json.loads(json.dumps(c, ensure_ascii=False)) for c in recent_raw]
+
+    latest = recent_comments[0] if recent_comments else None
+    latest_comment_status = latest.get("status") if latest else None
+    latest_comment_detail = latest.get("detail") if latest else None
+    latest_comment_at = latest.get("created_at") if latest else None
+
+    last_detail = latest_comment_detail
+    last_at = parse_api_time(latest_comment_at) if latest_comment_at else None
     if last_at is None and st.get("last_at") is not None:
         last_at = parse_api_time(st.get("last_at"))
 
@@ -423,16 +411,20 @@ def build_snapshot_station(
         "distance_from_route_km": round(dist, 2),
         "status_raw": st.get("status") if st.get("status") is not None else None,
         "fuels_now_raw": st.get("fuels_now") if st.get("fuels_now") is not None else None,
-        "ai95": grade_enum(st, "95", recent_raw),
-        "ai100": grade_enum(st, "100", recent_raw),
         "last_at": last_at,
         "last_detail": last_detail,
-        "recent_comments": recent_norm,
-        # дополнительные фактические поля API, если есть
-        "dt_only": st.get("dt_only") if "dt_only" in st else None,
-        "conflict": st.get("conflict") if "conflict" in st else None,
+        "latest_comment_status": latest_comment_status,
+        "latest_comment_detail": latest_comment_detail,
+        "latest_comment_at": latest_comment_at,
+        # Вспомогательные эвристики; не источник истины для анализа.
+        "ai95_inferred": grade_inferred(st, "95"),
+        "ai100_inferred": grade_inferred(st, "100"),
         "meta": st.get("meta") if isinstance(st.get("meta"), dict) else None,
         "prices_now": st.get("prices_now") if isinstance(st.get("prices_now"), dict) else None,
+        "conflict": st.get("conflict") if "conflict" in st else None,
+        "dt_only": st.get("dt_only") if "dt_only" in st else None,
+        "station_raw": json.loads(json.dumps(st, ensure_ascii=False)),
+        "recent_comments": recent_comments,
     }
     return item
 
