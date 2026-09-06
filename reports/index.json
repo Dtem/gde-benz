@@ -1,8 +1,9 @@
 {
-  "latest": "history/2026-09-06/1253Z.json",
-  "updated_at": "2026-09-06T12:53:27Z",
+  "latest": "history/2026-09-06/1305Z.json",
+  "updated_at": "2026-09-06T13:05:20Z",
   "snapshots": [
     "history/2026-09-06/1236Z.json",
-    "history/2026-09-06/1253Z.json"
+    "history/2026-09-06/1253Z.json",
+    "history/2026-09-06/1305Z.json"
   ]
 }
