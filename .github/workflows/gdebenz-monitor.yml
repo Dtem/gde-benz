@@ -30,13 +30,23 @@ jobs:
         run: |
           set -euo pipefail
           curl -fsS -A "Mozilla/5.0" -H "Accept: application/json" \
-            "https://gdebenz.ru/api/rt" | head -c 200
+            "https://gdebenz.ru/api/rt" -o /tmp/gdebenz-rt.json
+          head -c 200 /tmp/gdebenz-rt.json
           echo
           curl -fsS -A "Mozilla/5.0" -H "Accept: application/json" \
             -H "Referer: https://gdebenz.ru/" \
             "https://gdebenz.ru/api/stations?lat1=56.80&lon1=60.50&lat2=56.90&lon2=60.70" \
-            | head -c 200
+            -o /tmp/gdebenz-stations.json
+          head -c 200 /tmp/gdebenz-stations.json
           echo
+          python - <<'PY'
+          import json
+          rt = json.load(open("/tmp/gdebenz-rt.json", encoding="utf-8"))
+          st = json.load(open("/tmp/gdebenz-stations.json", encoding="utf-8"))
+          assert rt.get("rt"), "empty rt"
+          assert isinstance(st, list) and len(st) > 0, "empty stations"
+          print(f"probe ok: rt_len={len(rt['rt'])} stations={len(st)}")
+          PY
 
       - name: Collect snapshot
         run: python collect_snapshot.py --reports-dir reports
