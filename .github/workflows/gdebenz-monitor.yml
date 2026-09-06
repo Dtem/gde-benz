@@ -1,0 +1,56 @@
+name: gdebenz-monitor
+
+on:
+  schedule:
+    # every 6 hours at minute 17 UTC
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gdebenz-monitor
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Probe gdebenz.ru reachability
+        run: |
+          set -euo pipefail
+          curl -fsS -A "Mozilla/5.0" -H "Accept: application/json" \
+            "https://gdebenz.ru/api/rt" | head -c 200
+          echo
+          curl -fsS -A "Mozilla/5.0" -H "Accept: application/json" \
+            -H "Referer: https://gdebenz.ru/" \
+            "https://gdebenz.ru/api/stations?lat1=56.80&lon1=60.50&lat2=56.90&lon2=60.70" \
+            | head -c 200
+          echo
+
+      - name: Collect snapshot
+        run: python collect_snapshot.py --reports-dir reports
+
+      - name: Commit reports
+        run: |
+          set -euo pipefail
+          git config user.name "gdebenz-monitor"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/history reports/latest.json reports/index.json
+          if git diff --cached --quiet; then
+            echo "No report changes to commit"
+            exit 0
+          fi
+          STAMP=$(python -c "from datetime import datetime, timezone; print(datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M'))")
+          git commit -m "data: gdebenz snapshot ${STAMP} UTC"
+          git push
