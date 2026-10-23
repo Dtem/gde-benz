@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T17:05:45Z",
+  "fetched_at": "2026-10-23T21:23:18Z",
   "source": "https://gdebenz.ru",
   "route": {
     "from": "Екатеринбург",
@@ -116,12 +116,12 @@
       "route_km": 0.5,
       "distance_from_route_km": 8.39,
       "status_raw": "yes",
-      "fuels_now_raw": "95,ДТ",
-      "last_at": "2026-10-23T11:09:24Z",
-      "last_detail": "92, 95, 100, ДТ",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T16:33:47Z",
+      "last_detail": "95, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 100, ДТ",
-      "latest_comment_at": "2026-10-23 11:09:24",
+      "latest_comment_detail": "95, ДТ",
+      "latest_comment_at": "2026-10-23 16:33:47",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
@@ -164,7 +164,7 @@
         "lon": 60.5563605,
         "addr": "ул Предельная, 59",
         "status": "yes",
-        "fuels_now": "95,ДТ",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -201,19 +201,9 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, 100, ДТ",
-          "created_at": "2026-10-23 11:09:24",
+          "detail": "95, ДТ",
+          "created_at": "2026-10-23 16:33:47",
           "edited": false,
-          "on_site": true
-        },
-        {
-          "status": "yes",
-          "detail": "92, 95, 100, ДТ",
-          "created_at": "2026-10-22 17:07:11",
-          "edited": false,
-          "author_reliable": false,
-          "author_tier": 0,
-          "acct_ok": true,
           "on_site": true
         }
       ]
@@ -229,14 +219,14 @@
       "route_km": 0.5,
       "distance_from_route_km": 3.54,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,100",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:17:27Z",
       "last_detail": "92, 95, 100",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, 100",
       "latest_comment_at": "2026-10-23 14:17:27",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -276,7 +266,7 @@
         "lon": 60.5852325,
         "addr": "ул Артинская, 22Г",
         "status": "yes",
-        "fuels_now": "92,95,100",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -422,7 +412,7 @@
       "lon": 60.5666323,
       "route_km": 0.5,
       "distance_from_route_km": 2.38,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T05:30:23Z",
       "last_detail": "",
@@ -469,7 +459,7 @@
         "lat": 56.825629,
         "lon": 60.5666323,
         "addr": "ул Посадская, 8",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -547,14 +537,14 @@
       "route_km": 0.5,
       "distance_from_route_km": 2.23,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,95+,100,ДТ",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:04:37Z",
       "last_detail": "92, 95, 95+, 100, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, 95+, 100, ДТ",
       "latest_comment_at": "2026-10-23 14:04:37",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -606,7 +596,7 @@
         "lon": 60.5923222,
         "addr": "ул Шейнкмана, 123А",
         "status": "yes",
-        "fuels_now": "92,95,95+,100,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -682,14 +672,14 @@
       "route_km": 0.5,
       "distance_from_route_km": 6.32,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T15:43:02Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 15:43:02",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -719,7 +709,7 @@
           "t": "2026-10-22 19:36:51"
         }
       },
-      "conflict": "no",
+      "conflict": null,
       "dt_only": 0,
       "station_raw": {
         "osm_id": "1660049125",
@@ -729,9 +719,9 @@
         "lon": 60.5731863,
         "addr": "ул Бакинских комиссаров, 2",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
-        "conflict": "no",
+        "conflict": null,
         "prices_now": {
           "92": {
             "p": 66.37,
@@ -754,7 +744,6 @@
             "t": "2026-10-22 19:36:51"
           }
         },
-        "svc": "vs",
         "meta": {
           "f": [
             "dt",
@@ -789,16 +778,6 @@
           "author_tier": 0,
           "acct_ok": true,
           "on_site": true
-        },
-        {
-          "status": "yes",
-          "detail": "92, ДТ",
-          "created_at": "2026-10-22 19:36:51",
-          "edited": false,
-          "author_reliable": false,
-          "author_tier": 0,
-          "acct_ok": true,
-          "on_site": true
         }
       ]
     },
@@ -813,14 +792,14 @@
       "route_km": 0.5,
       "distance_from_route_km": 2.54,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T15:56:15Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T18:16:16Z",
+      "last_detail": "95, 100",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 15:56:15",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "95, 100",
+      "latest_comment_at": "2026-10-23 18:16:16",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -861,7 +840,7 @@
         "lon": 60.5622391,
         "addr": "ул Репина, 19/1",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -898,9 +877,19 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 15:56:15",
+          "detail": "95, 100",
+          "created_at": "2026-10-23 18:16:16",
           "edited": false,
+          "on_site": true
+        },
+        {
+          "status": "yes",
+          "detail": "92, 95, 100, ДТ",
+          "created_at": "2026-10-23 18:05:07",
+          "edited": false,
+          "author_reliable": true,
+          "author_tier": 2,
+          "acct_ok": true,
           "on_site": true
         },
         {
@@ -1047,14 +1036,14 @@
       "route_km": 0.5,
       "distance_from_route_km": 2.34,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,100",
-      "last_at": "2026-10-23T15:55:50Z",
-      "last_detail": "92, 95, 100, ДТ",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T20:09:06Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 100, ДТ",
-      "latest_comment_at": "2026-10-23 15:55:50",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 20:09:06",
       "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -1100,7 +1089,7 @@
         "lon": 60.5874515,
         "addr": "ул Посадская, 85",
         "status": "yes",
-        "fuels_now": "92,95,100",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -1142,8 +1131,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, 100, ДТ",
-          "created_at": "2026-10-23 15:55:50",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 20:09:06",
           "edited": false,
           "on_site": true
         },
@@ -1170,13 +1159,13 @@
       "route_km": 0.5,
       "distance_from_route_km": 8.58,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,95+,100,ДТ",
-      "last_at": "2026-10-23T15:19:46Z",
-      "last_detail": "92, 95, 95+, 100, ДТ",
+      "fuels_now_raw": "100",
+      "last_at": "2026-10-23T20:01:43Z",
+      "last_detail": "100",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 95+, 100, ДТ",
-      "latest_comment_at": "2026-10-23 15:19:46",
-      "ai95_inferred": "yes",
+      "latest_comment_detail": "100",
+      "latest_comment_at": "2026-10-23 20:01:43",
+      "ai95_inferred": "no",
       "ai100_inferred": "yes",
       "meta": {
         "f": [
@@ -1218,7 +1207,7 @@
         "lon": 60.5878621,
         "addr": "ул 2-я Новосибирская, 6",
         "status": "yes",
-        "fuels_now": "92,95,95+,100,ДТ",
+        "fuels_now": "100",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -1255,6 +1244,13 @@
       "recent_comments": [
         {
           "status": "yes",
+          "detail": "100",
+          "created_at": "2026-10-23 20:01:43",
+          "edited": false,
+          "on_site": true
+        },
+        {
+          "status": "yes",
           "detail": "92, 95, 95+, 100, ДТ",
           "created_at": "2026-10-23 15:19:46",
           "edited": false,
@@ -1271,13 +1267,6 @@
           "author_reliable": false,
           "author_tier": 0,
           "acct_ok": true,
-          "on_site": true
-        },
-        {
-          "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 14:57:35",
-          "edited": false,
           "on_site": true
         }
       ]
@@ -1413,15 +1402,15 @@
       "lon": 60.5504032,
       "route_km": 0.5,
       "distance_from_route_km": 4.64,
-      "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T15:43:42Z",
-      "last_detail": "92, 95, ДТ",
-      "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 15:43:42",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "status_raw": "no",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T17:36:17Z",
+      "last_detail": "Перерыв 1–2 ч",
+      "latest_comment_status": "no",
+      "latest_comment_detail": "Перерыв 1–2 ч",
+      "latest_comment_at": "2026-10-23 17:36:17",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -1461,8 +1450,8 @@
         "lat": 56.8701315,
         "lon": 60.5504032,
         "addr": "улица Пехотинцев, 8",
-        "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "status": "no",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -1498,6 +1487,15 @@
       },
       "recent_comments": [
         {
+          "status": "no",
+          "detail": "Перерыв 1–2 ч",
+          "created_at": "2026-10-23 17:36:17",
+          "edited": false,
+          "author_reliable": false,
+          "author_tier": 0,
+          "acct_ok": true
+        },
+        {
           "status": "yes",
           "detail": "92, 95, ДТ",
           "created_at": "2026-10-23 15:43:42",
@@ -1516,15 +1514,15 @@
       "lon": 60.5716703,
       "route_km": 0.5,
       "distance_from_route_km": 5.39,
-      "status_raw": null,
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T00:33:04Z",
-      "last_detail": "92, 95, 95+, ДТ",
+      "status_raw": "yes",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T20:05:44Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 95+, ДТ",
-      "latest_comment_at": "2026-10-23 00:33:04",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 20:05:44",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -1574,8 +1572,8 @@
         "lat": 56.7916822,
         "lon": 60.5716703,
         "addr": "ул Начдива Онуфриева, 59",
-        "status": null,
-        "fuels_now": "",
+        "status": "yes",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -1622,6 +1620,13 @@
       "recent_comments": [
         {
           "status": "yes",
+          "detail": "95",
+          "created_at": "2026-10-23 20:05:44",
+          "edited": false,
+          "on_site": true
+        },
+        {
+          "status": "yes",
           "detail": "92, 95, 95+, ДТ",
           "created_at": "2026-10-23 00:33:04",
           "edited": false,
@@ -1643,14 +1648,14 @@
       "route_km": 0.5,
       "distance_from_route_km": 5.93,
       "status_raw": "yes",
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T13:50:59Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T20:02:33Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 13:50:59",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 20:02:33",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -1691,7 +1696,7 @@
         "lon": 60.5075893,
         "addr": "ул Архангела Михаила, 25",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -1728,6 +1733,13 @@
       "recent_comments": [
         {
           "status": "yes",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 20:02:33",
+          "edited": false,
+          "on_site": true
+        },
+        {
+          "status": "yes",
           "detail": "92, 95, ДТ",
           "created_at": "2026-10-23 13:50:59",
           "edited": false,
@@ -1735,13 +1747,6 @@
           "author_tier": 2,
           "acct_ok": true,
           "on_site": false
-        },
-        {
-          "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 11:08:59",
-          "edited": false,
-          "on_site": true
         }
       ]
     },
@@ -1962,13 +1967,13 @@
       "route_km": 0.5,
       "distance_from_route_km": 2.45,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T15:41:32Z",
-      "last_detail": "92, 95",
+      "fuels_now_raw": "92",
+      "last_at": "2026-10-23T20:18:01Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 15:41:32",
-      "ai95_inferred": "yes",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 20:18:01",
+      "ai95_inferred": "no",
       "ai100_inferred": "no",
       "meta": null,
       "prices_now": {
@@ -2003,7 +2008,7 @@
         "lon": 60.5765636,
         "addr": "ул Черепанова, 40",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "92",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -2032,8 +2037,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-23 15:41:32",
+          "detail": "95",
+          "created_at": "2026-10-23 20:18:01",
           "edited": false,
           "on_site": true
         },
@@ -2070,14 +2075,14 @@
       "route_km": 0.5,
       "distance_from_route_km": 4.55,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,100,ДТ",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T15:49:08Z",
       "last_detail": "92, 95, 100, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, 100, ДТ",
       "latest_comment_at": "2026-10-23 15:49:08",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -2123,7 +2128,7 @@
         "lon": 60.5952322,
         "addr": "ул Московская, 216Б",
         "status": "yes",
-        "fuels_now": "92,95,100,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -2193,14 +2198,14 @@
       "route_km": 0.5,
       "distance_from_route_km": 4.36,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,95+,100,ДТ",
+      "fuels_now_raw": "92,95",
       "last_at": "2026-10-23T15:49:48Z",
       "last_detail": "92, 95, 95+, 100, ДТ · Очередь до 15 мин",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, 95+, 100, ДТ · Очередь до 15 мин",
       "latest_comment_at": "2026-10-23 15:49:48",
       "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -2252,7 +2257,7 @@
         "lon": 60.5964206,
         "addr": "Московская улица, 283",
         "status": "yes",
-        "fuels_now": "92,95,95+,100,ДТ",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -2583,7 +2588,7 @@
       "lon": 60.5853242,
       "route_km": 0.5,
       "distance_from_route_km": 1.06,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T06:56:57Z",
       "last_detail": "92, 95",
@@ -2624,7 +2629,7 @@
         "lat": 56.8439883,
         "lon": 60.5853242,
         "addr": "улица Февральской Революции, 53",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -2753,16 +2758,6 @@
           "created_at": "2026-10-23 04:35:29",
           "edited": false,
           "on_site": true
-        },
-        {
-          "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-22 18:25:18",
-          "edited": false,
-          "author_reliable": false,
-          "author_tier": 0,
-          "acct_ok": true,
-          "on_site": true
         }
       ]
     },
@@ -2777,14 +2772,14 @@
       "route_km": 0.5,
       "distance_from_route_km": 7.66,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,95+,100,ДТ",
-      "last_at": "2026-10-23T14:45:34Z",
-      "last_detail": "92, 95",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T18:14:25Z",
+      "last_detail": "92, 95, 95+, 100, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 14:45:34",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "latest_comment_detail": "92, 95, 95+, 100, ДТ",
+      "latest_comment_at": "2026-10-23 18:14:25",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -2835,7 +2830,7 @@
         "lon": 60.5023363,
         "addr": "ул Рябинина, 32/2",
         "status": "yes",
-        "fuels_now": "92,95,95+,100,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -2882,8 +2877,18 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-23 14:45:34",
+          "detail": "92, 95, 95+, 100, ДТ",
+          "created_at": "2026-10-23 18:14:25",
+          "edited": false,
+          "author_reliable": false,
+          "author_tier": 0,
+          "acct_ok": false,
+          "on_site": false
+        },
+        {
+          "status": "yes",
+          "detail": "95",
+          "created_at": "2026-10-23 17:52:23",
           "edited": false,
           "on_site": true
         },
@@ -3026,14 +3031,14 @@
       "route_km": 0.5,
       "distance_from_route_km": 6.96,
       "status_raw": "yes",
-      "fuels_now_raw": "",
+      "fuels_now_raw": "92,95,ДТ",
       "last_at": "2026-10-23T13:32:50Z",
       "last_detail": "92, 95, 95+, 98, 100",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, 95+, 98, 100",
       "latest_comment_at": "2026-10-23 13:32:50",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -3086,7 +3091,7 @@
         "lon": 60.5288086,
         "addr": "ул Монтажников, 16",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "92,95,ДТ",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -3183,14 +3188,14 @@
       "route_km": 0.5,
       "distance_from_route_km": 4.41,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T15:42:19Z",
       "last_detail": "92, 95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95",
       "latest_comment_at": "2026-10-23 15:42:19",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -3236,7 +3241,7 @@
         "lon": 60.5270351,
         "addr": "ул Крауля, 166А",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -3477,7 +3482,7 @@
         "100": {
           "p": 97.62,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -3497,7 +3502,7 @@
           "100": {
             "p": 97.62,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         }
       },
@@ -3514,14 +3519,14 @@
       "route_km": 0.5,
       "distance_from_route_km": 9.83,
       "status_raw": "yes",
-      "fuels_now_raw": "92",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:53:25Z",
       "last_detail": "92",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92",
       "latest_comment_at": "2026-10-23 14:53:25",
-      "ai95_inferred": "no",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": null,
       "prices_now": {
         "100": {
@@ -3565,7 +3570,7 @@
         "lon": 60.51005957625103,
         "addr": "Свердловская область, Екатеринбург, Серовский тракт, 15-й километр, 1",
         "status": "yes",
-        "fuels_now": "92",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -3772,14 +3777,14 @@
       "route_km": 1.9,
       "distance_from_route_km": 2.32,
       "status_raw": "yes",
-      "fuels_now_raw": "95,ДТ",
-      "last_at": "2026-10-23T15:41:29Z",
-      "last_detail": "95, ДТ",
+      "fuels_now_raw": "95,100",
+      "last_at": "2026-10-23T20:17:38Z",
+      "last_detail": "95, 100",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "95, ДТ",
-      "latest_comment_at": "2026-10-23 15:41:29",
+      "latest_comment_detail": "95, 100",
+      "latest_comment_at": "2026-10-23 20:17:38",
       "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai100_inferred": "yes",
       "meta": {
         "f": [
           "dt",
@@ -3820,7 +3825,7 @@
         "lon": 60.6139712,
         "addr": "улица Маяковского, 1А",
         "status": "yes",
-        "fuels_now": "95,ДТ",
+        "fuels_now": "95,100",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -3857,8 +3862,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "95, ДТ",
-          "created_at": "2026-10-23 15:41:29",
+          "detail": "95, 100",
+          "created_at": "2026-10-23 20:17:38",
           "edited": false,
           "on_site": true
         }
@@ -3875,14 +3880,14 @@
       "route_km": 1.9,
       "distance_from_route_km": 2.31,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:19:30Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 14:19:30",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -3934,7 +3939,7 @@
         "lon": 60.6117761,
         "addr": "пр-кт Космонавтов, 1Б",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -4261,14 +4266,14 @@
       "route_km": 2.5,
       "distance_from_route_km": 0.7,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
-      "last_at": "2026-10-23T14:21:49Z",
-      "last_detail": "92, 95",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:54:01Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 14:21:49",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 16:54:01",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": null,
       "prices_now": {
         "92": {
@@ -4307,7 +4312,7 @@
         "lon": 60.63474385977302,
         "addr": "ул Восточная, 7В",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -4341,8 +4346,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-23 14:21:49",
+          "detail": "95",
+          "created_at": "2026-10-23 16:54:01",
           "edited": false,
           "on_site": true
         },
@@ -4573,12 +4578,12 @@
       "route_km": 3.0,
       "distance_from_route_km": 8.02,
       "status_raw": "yes",
-      "fuels_now_raw": "95,100",
-      "last_at": "2026-10-23T15:57:54Z",
-      "last_detail": "95, 100",
+      "fuels_now_raw": "92,95,100,ДТ",
+      "last_at": "2026-10-23T18:54:14Z",
+      "last_detail": "92, 95, 100, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "95, 100",
-      "latest_comment_at": "2026-10-23 15:57:54",
+      "latest_comment_detail": "92, 95, 100, ДТ",
+      "latest_comment_at": "2026-10-23 18:54:14",
       "ai95_inferred": "yes",
       "ai100_inferred": "yes",
       "meta": {
@@ -4634,7 +4639,7 @@
         "lon": 60.6128207,
         "addr": "пр-кт Космонавтов, 102",
         "status": "yes",
-        "fuels_now": "95,100",
+        "fuels_now": "92,95,100,ДТ",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -4684,8 +4689,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "95, 100",
-          "created_at": "2026-10-23 15:57:54",
+          "detail": "92, 95, 100, ДТ",
+          "created_at": "2026-10-23 18:54:14",
           "edited": false,
           "on_site": true
         }
@@ -4702,14 +4707,14 @@
       "route_km": 3.3,
       "distance_from_route_km": 11.9,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,100,ДТ",
-      "last_at": "2026-10-23T14:16:02Z",
-      "last_detail": "92, 95, 100, ДТ",
+      "fuels_now_raw": "92",
+      "last_at": "2026-10-23T20:17:26Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 100, ДТ",
-      "latest_comment_at": "2026-10-23 14:16:02",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 20:17:26",
+      "ai95_inferred": "no",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -4749,7 +4754,7 @@
         "lon": 60.606618,
         "addr": "улица Петрова, 67",
         "status": "yes",
-        "fuels_now": "92,95,100,ДТ",
+        "fuels_now": "92",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -4785,8 +4790,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, 100, ДТ",
-          "created_at": "2026-10-23 14:16:02",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 20:17:26",
           "edited": false,
           "on_site": true
         },
@@ -4812,14 +4817,14 @@
       "route_km": 3.4,
       "distance_from_route_km": 7.22,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,100,ДТ",
-      "last_at": "2026-10-23T15:40:55Z",
-      "last_detail": "92, 95, 100, ДТ",
+      "fuels_now_raw": "ДТ",
+      "last_at": "2026-10-23T19:09:44Z",
+      "last_detail": "ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 100, ДТ",
-      "latest_comment_at": "2026-10-23 15:40:55",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "latest_comment_detail": "ДТ",
+      "latest_comment_at": "2026-10-23 19:09:44",
+      "ai95_inferred": "no",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -4855,7 +4860,7 @@
         }
       },
       "conflict": null,
-      "dt_only": 0,
+      "dt_only": 1,
       "station_raw": {
         "osm_id": "1038072314",
         "name": "Лукойл",
@@ -4864,8 +4869,8 @@
         "lon": 60.731722,
         "addr": "ул Трудовая, 22",
         "status": "yes",
-        "fuels_now": "92,95,100,ДТ",
-        "dt_only": 0,
+        "fuels_now": "ДТ",
+        "dt_only": 1,
         "conflict": null,
         "prices_now": {
           "100": {
@@ -4905,10 +4910,19 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, 100, ДТ",
-          "created_at": "2026-10-23 15:40:55",
+          "detail": "ДТ",
+          "created_at": "2026-10-23 19:09:44",
           "edited": false,
           "on_site": true
+        },
+        {
+          "status": "yes",
+          "detail": "92, 95, 95+, 100, ДТ",
+          "created_at": "2026-10-23 18:01:15",
+          "edited": false,
+          "author_reliable": false,
+          "author_tier": 0,
+          "acct_ok": true
         },
         {
           "status": "yes",
@@ -4933,14 +4947,14 @@
       "route_km": 3.4,
       "distance_from_route_km": 7.37,
       "status_raw": "yes",
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T10:44:10Z",
+      "fuels_now_raw": "92,95,100,ДТ",
+      "last_at": "2026-10-23T20:02:26Z",
       "last_detail": "92, 95, 100, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, 100, ДТ",
-      "latest_comment_at": "2026-10-23 10:44:10",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "latest_comment_at": "2026-10-23 20:02:26",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "yes",
       "meta": {
         "f": [
           "dt",
@@ -4981,7 +4995,7 @@
         "lon": 60.7320788,
         "addr": "ул Трудовая, 31",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "92,95,100,ДТ",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -5019,19 +5033,28 @@
         {
           "status": "yes",
           "detail": "92, 95, 100, ДТ",
+          "created_at": "2026-10-23 20:02:26",
+          "edited": false,
+          "on_site": true
+        },
+        {
+          "status": "yes",
+          "detail": "92, 95, 100, ДТ",
+          "created_at": "2026-10-23 18:00:59",
+          "edited": false,
+          "author_reliable": false,
+          "author_tier": 0,
+          "acct_ok": true
+        },
+        {
+          "status": "yes",
+          "detail": "92, 95, 100, ДТ",
           "created_at": "2026-10-23 10:44:10",
           "edited": false,
           "author_reliable": false,
           "author_tier": 0,
           "acct_ok": false,
           "on_site": false
-        },
-        {
-          "status": "yes",
-          "detail": "92, 95, 100, ДТ",
-          "created_at": "2026-10-23 09:12:51",
-          "edited": false,
-          "on_site": true
         }
       ]
     },
@@ -5143,12 +5166,12 @@
       "route_km": 3.4,
       "distance_from_route_km": 11.48,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T14:58:31Z",
+      "fuels_now_raw": "95,ДТ",
+      "last_at": "2026-10-23T16:12:07Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 14:58:31",
+      "latest_comment_at": "2026-10-23 16:12:07",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
@@ -5191,7 +5214,7 @@
         "lon": 60.6082041,
         "addr": "",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "95,ДТ",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -5229,7 +5252,7 @@
         {
           "status": "yes",
           "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 14:58:31",
+          "created_at": "2026-10-23 16:12:07",
           "edited": false,
           "on_site": true
         },
@@ -5479,11 +5502,11 @@
       "distance_from_route_km": 4.46,
       "status_raw": "yes",
       "fuels_now_raw": "",
-      "last_at": "2026-10-23T13:09:27Z",
-      "last_detail": "92, 95, ДТ",
+      "last_at": "2026-10-23T17:50:37Z",
+      "last_detail": "ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 13:09:27",
+      "latest_comment_detail": "ДТ",
+      "latest_comment_at": "2026-10-23 17:50:37",
       "ai95_inferred": "unknown",
       "ai100_inferred": "unknown",
       "meta": {
@@ -5561,8 +5584,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 13:09:27",
+          "detail": "ДТ",
+          "created_at": "2026-10-23 17:50:37",
           "edited": false,
           "on_site": true
         }
@@ -5711,15 +5734,15 @@
       "lon": 60.6690841,
       "route_km": 3.4,
       "distance_from_route_km": 10.98,
-      "status_raw": null,
-      "fuels_now_raw": "",
+      "status_raw": "yes",
+      "fuels_now_raw": "95",
       "last_at": null,
       "last_detail": null,
       "latest_comment_status": null,
       "latest_comment_detail": null,
       "latest_comment_at": null,
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -5759,8 +5782,8 @@
         "lat": 56.9407542,
         "lon": 60.6690841,
         "addr": "ул Фруктовая, 30",
-        "status": null,
-        "fuels_now": "",
+        "status": "yes",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -5807,14 +5830,14 @@
       "route_km": 3.4,
       "distance_from_route_km": 2.55,
       "status_raw": "yes",
-      "fuels_now_raw": "",
+      "fuels_now_raw": "95",
       "last_at": "2026-10-23T13:09:04Z",
       "last_detail": "92, 95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95",
       "latest_comment_at": "2026-10-23 13:09:04",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -5849,7 +5872,7 @@
         "lon": 60.6647103,
         "addr": "улица Блюхера, 91",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -5898,12 +5921,12 @@
       "route_km": 5.3,
       "distance_from_route_km": 0.43,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T14:53:10Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T18:54:34Z",
+      "last_detail": "100",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 14:53:10",
+      "latest_comment_detail": "100",
+      "latest_comment_at": "2026-10-23 18:54:34",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
@@ -5946,7 +5969,7 @@
         "lon": 60.6624137,
         "addr": "ул Комсомольская, 69Б",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -5983,8 +6006,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 14:53:10",
+          "detail": "100",
+          "created_at": "2026-10-23 18:54:34",
           "edited": false,
           "on_site": true
         },
@@ -6021,14 +6044,14 @@
       "route_km": 5.9,
       "distance_from_route_km": 4.34,
       "status_raw": "yes",
-      "fuels_now_raw": "95,100,ДТ",
-      "last_at": "2026-10-23T15:42:14Z",
-      "last_detail": "95, 100, ДТ",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T20:16:42Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "95, 100, ДТ",
-      "latest_comment_at": "2026-10-23 15:42:14",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 20:16:42",
       "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -6069,7 +6092,7 @@
         "lon": 60.6124748,
         "addr": "улица 8 Марта, 183А",
         "status": "yes",
-        "fuels_now": "95,100,ДТ",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -6106,9 +6129,19 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "95, 100, ДТ",
-          "created_at": "2026-10-23 15:42:14",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 20:16:42",
           "edited": false,
+          "on_site": true
+        },
+        {
+          "status": "yes",
+          "detail": "92, 95, 100, ДТ",
+          "created_at": "2026-10-23 17:53:20",
+          "edited": false,
+          "author_reliable": true,
+          "author_tier": 2,
+          "acct_ok": true,
           "on_site": true
         },
         {
@@ -6134,14 +6167,14 @@
       "route_km": 5.9,
       "distance_from_route_km": 5.56,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:47:53Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 14:47:53",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -6187,7 +6220,7 @@
         "lon": 60.607103,
         "addr": "ул 8 Марта, 271",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -6356,14 +6389,14 @@
       "route_km": 6.0,
       "distance_from_route_km": 7.02,
       "status_raw": "yes",
-      "fuels_now_raw": "92,100",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:43:59Z",
       "last_detail": "92, 100",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 100",
       "latest_comment_at": "2026-10-23 14:43:59",
-      "ai95_inferred": "no",
-      "ai100_inferred": "yes",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -6411,7 +6444,7 @@
         "lon": 60.615387,
         "addr": "ул Титова, 37",
         "status": "yes",
-        "fuels_now": "92,100",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -6483,14 +6516,14 @@
       "route_km": 6.0,
       "distance_from_route_km": 7.17,
       "status_raw": "yes",
-      "fuels_now_raw": "95,ДТ",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:32:45Z",
       "last_detail": "95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95, ДТ",
       "latest_comment_at": "2026-10-23 14:32:45",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -6540,7 +6573,7 @@
         "lon": 60.6001648,
         "addr": "улица Патриса Лумумбы, 4В",
         "status": "yes",
-        "fuels_now": "95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -6731,11 +6764,11 @@
       "distance_from_route_km": 5.11,
       "status_raw": "yes",
       "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T11:08:43Z",
-      "last_detail": "92, 95, ДТ",
+      "last_at": "2026-10-23T16:46:17Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 11:08:43",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 16:46:17",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
@@ -6803,8 +6836,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 11:08:43",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 16:46:17",
           "edited": false,
           "on_site": true
         }
@@ -6821,14 +6854,14 @@
       "route_km": 6.0,
       "distance_from_route_km": 11.15,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:51:24Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, ДТ",
       "latest_comment_at": "2026-10-23 14:51:24",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -6868,7 +6901,7 @@
         "lon": 60.5955694,
         "addr": "Полевской тракт 12 км, 1",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -7142,14 +7175,14 @@
       "route_km": 6.0,
       "distance_from_route_km": 4.15,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T14:45:58Z",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:38:46Z",
       "last_detail": "92, 95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 14:45:58",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_at": "2026-10-23 16:38:46",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -7195,7 +7228,7 @@
         "lon": 60.6455938,
         "addr": "ул Щербакова, 2А",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -7238,7 +7271,7 @@
         {
           "status": "yes",
           "detail": "92, 95",
-          "created_at": "2026-10-23 14:45:58",
+          "created_at": "2026-10-23 16:38:46",
           "edited": false,
           "on_site": true
         },
@@ -7534,14 +7567,14 @@
       "route_km": 6.0,
       "distance_from_route_km": 2.15,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,100,ДТ",
-      "last_at": "2026-10-23T15:41:20Z",
-      "last_detail": "92, 95, 100, ДТ",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T20:09:17Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 100, ДТ",
-      "latest_comment_at": "2026-10-23 15:41:20",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 20:09:17",
       "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": null,
       "prices_now": {
         "100": {
@@ -7575,7 +7608,7 @@
         "lon": 60.65284810960294,
         "addr": "Базовый пер, 30",
         "status": "yes",
-        "fuels_now": "92,95,100,ДТ",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -7604,8 +7637,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, 100, ДТ",
-          "created_at": "2026-10-23 15:41:20",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 20:09:17",
           "edited": false,
           "on_site": true
         },
@@ -7725,14 +7758,14 @@
       "route_km": 7.1,
       "distance_from_route_km": 0.06,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:57:44Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, ДТ",
       "latest_comment_at": "2026-10-23 14:57:44",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -7767,7 +7800,7 @@
         "lon": 60.6765259,
         "addr": "Дублер Сибирского тракта, 5",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -7998,13 +8031,13 @@
       "route_km": 8.3,
       "distance_from_route_km": 4.11,
       "status_raw": "yes",
-      "fuels_now_raw": "92",
-      "last_at": "2026-10-23T14:35:50Z",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T18:44:49Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
-      "latest_comment_at": "2026-10-23 14:35:50",
-      "ai95_inferred": "no",
+      "latest_comment_at": "2026-10-23 18:44:49",
+      "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
         "f": [
@@ -8052,7 +8085,7 @@
         "lon": 60.6685594,
         "addr": "улица Академика Павлова, 15В",
         "status": "yes",
-        "fuels_now": "92",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -8096,7 +8129,7 @@
         {
           "status": "yes",
           "detail": "95",
-          "created_at": "2026-10-23 14:35:50",
+          "created_at": "2026-10-23 18:44:49",
           "edited": false,
           "on_site": true
         }
@@ -8295,14 +8328,14 @@
       "route_km": 8.5,
       "distance_from_route_km": 4.06,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T15:42:30Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "92,95,100,ДТ",
+      "last_at": "2026-10-23T19:09:55Z",
+      "last_detail": "92, 95, 100, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 15:42:30",
+      "latest_comment_detail": "92, 95, 100, ДТ",
+      "latest_comment_at": "2026-10-23 19:09:55",
       "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai100_inferred": "yes",
       "meta": {
         "f": [
           "dt",
@@ -8343,7 +8376,7 @@
         "lon": 60.6763302,
         "addr": "Кольцовский тракт, 11",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "92,95,100,ДТ",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -8380,8 +8413,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 15:42:30",
+          "detail": "92, 95, 100, ДТ",
+          "created_at": "2026-10-23 19:09:55",
           "edited": false,
           "on_site": true
         }
@@ -8398,13 +8431,13 @@
       "route_km": 9.0,
       "distance_from_route_km": 0.1,
       "status_raw": "yes",
-      "fuels_now_raw": "92",
-      "last_at": "2026-10-23T15:41:23Z",
-      "last_detail": "92",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T20:08:39Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92",
-      "latest_comment_at": "2026-10-23 15:41:23",
-      "ai95_inferred": "no",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 20:08:39",
+      "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
         "f": [
@@ -8450,7 +8483,7 @@
         "lon": 60.7048877,
         "addr": "Дублер Сибирского тракта, 1",
         "status": "yes",
-        "fuels_now": "92",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -8491,8 +8524,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92",
-          "created_at": "2026-10-23 15:41:23",
+          "detail": "95",
+          "created_at": "2026-10-23 20:08:39",
           "edited": false,
           "on_site": true
         }
@@ -8509,12 +8542,12 @@
       "route_km": 9.1,
       "distance_from_route_km": 0.08,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,100,ДТ",
-      "last_at": "2026-10-23T15:43:15Z",
-      "last_detail": "92, 95, 100, ДТ",
+      "fuels_now_raw": "95,100",
+      "last_at": "2026-10-23T19:09:43Z",
+      "last_detail": "95, 100",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 100, ДТ",
-      "latest_comment_at": "2026-10-23 15:43:15",
+      "latest_comment_detail": "95, 100",
+      "latest_comment_at": "2026-10-23 19:09:43",
       "ai95_inferred": "yes",
       "ai100_inferred": "yes",
       "meta": {
@@ -8562,7 +8595,7 @@
         "lon": 60.7053378,
         "addr": "Дублер Сибирского тракта, 1",
         "status": "yes",
-        "fuels_now": "92,95,100,ДТ",
+        "fuels_now": "95,100",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -8604,8 +8637,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, 100, ДТ",
-          "created_at": "2026-10-23 15:43:15",
+          "detail": "95, 100",
+          "created_at": "2026-10-23 19:09:43",
           "edited": false,
           "on_site": true
         }
@@ -8623,11 +8656,11 @@
       "distance_from_route_km": 9.18,
       "status_raw": "yes",
       "fuels_now_raw": "",
-      "last_at": "2026-10-23T05:18:43Z",
+      "last_at": "2026-10-23T17:56:54Z",
       "last_detail": "92, 95, 95+, 100, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, 95+, 100, ДТ",
-      "latest_comment_at": "2026-10-23 05:18:43",
+      "latest_comment_at": "2026-10-23 17:56:54",
       "ai95_inferred": "unknown",
       "ai100_inferred": "unknown",
       "meta": {
@@ -8734,8 +8767,8 @@
         {
           "status": "yes",
           "detail": "92, 95, 95+, 100, ДТ",
-          "created_at": "2026-10-23 05:18:43",
-          "edited": true,
+          "created_at": "2026-10-23 17:56:54",
+          "edited": false,
           "author_reliable": false,
           "author_tier": 0,
           "acct_ok": true
@@ -8754,11 +8787,11 @@
       "distance_from_route_km": 10.4,
       "status_raw": "yes",
       "fuels_now_raw": "",
-      "last_at": "2026-10-23T06:13:11Z",
-      "last_detail": "",
+      "last_at": "2026-10-23T17:38:32Z",
+      "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "",
-      "latest_comment_at": "2026-10-23 06:13:11",
+      "latest_comment_detail": "92, 95, ДТ",
+      "latest_comment_at": "2026-10-23 17:38:32",
       "ai95_inferred": "unknown",
       "ai100_inferred": "unknown",
       "meta": {
@@ -8826,6 +8859,15 @@
       "recent_comments": [
         {
           "status": "yes",
+          "detail": "92, 95, ДТ",
+          "created_at": "2026-10-23 17:38:32",
+          "edited": false,
+          "author_reliable": false,
+          "author_tier": 0,
+          "acct_ok": true
+        },
+        {
+          "status": "yes",
           "detail": "",
           "created_at": "2026-10-23 06:13:11",
           "edited": false,
@@ -8833,15 +8875,6 @@
           "author_tier": 0,
           "acct_ok": true,
           "on_site": false
-        },
-        {
-          "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 05:15:53",
-          "edited": true,
-          "author_reliable": false,
-          "author_tier": 0,
-          "acct_ok": true
         }
       ]
     },
@@ -8855,7 +8888,7 @@
       "lon": 60.7721637,
       "route_km": 9.7,
       "distance_from_route_km": 8.61,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T09:13:21Z",
       "last_detail": "92, 95, 100, ДТ",
@@ -8902,7 +8935,7 @@
         "lat": 56.8917572,
         "lon": 60.7721637,
         "addr": "ул Кольцевая, 6",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -9051,11 +9084,11 @@
       "distance_from_route_km": 0.05,
       "status_raw": "yes",
       "fuels_now_raw": "",
-      "last_at": "2026-10-23T11:57:19Z",
-      "last_detail": "92, 95, 95+, 100, ДТ",
+      "last_at": "2026-10-23T17:53:55Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 95+, 100, ДТ",
-      "latest_comment_at": "2026-10-23 11:57:19",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 17:53:55",
       "ai95_inferred": "unknown",
       "ai100_inferred": "unknown",
       "meta": {
@@ -9155,6 +9188,13 @@
       "recent_comments": [
         {
           "status": "yes",
+          "detail": "95",
+          "created_at": "2026-10-23 17:53:55",
+          "edited": false,
+          "on_site": true
+        },
+        {
+          "status": "yes",
           "detail": "92, 95, 95+, 100, ДТ",
           "created_at": "2026-10-23 11:57:19",
           "edited": false,
@@ -9162,13 +9202,6 @@
           "author_tier": 2,
           "acct_ok": true,
           "on_site": false
-        },
-        {
-          "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-23 11:56:06",
-          "edited": false,
-          "on_site": true
         }
       ]
     },
@@ -9183,14 +9216,14 @@
       "route_km": 10.2,
       "distance_from_route_km": 7.56,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:18:25Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 14:18:25",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -9242,7 +9275,7 @@
         "lon": 60.6735621,
         "addr": "ул Щербакова, 216",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -9294,16 +9327,6 @@
           "created_at": "2026-10-23 14:18:25",
           "edited": false,
           "on_site": true
-        },
-        {
-          "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-22 18:09:25",
-          "edited": false,
-          "author_reliable": false,
-          "author_tier": 0,
-          "acct_ok": false,
-          "on_site": false
         }
       ]
     },
@@ -9318,14 +9341,14 @@
       "route_km": 10.8,
       "distance_from_route_km": 1.44,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:31:21Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 14:31:21",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -9366,7 +9389,7 @@
         "lon": 60.7219471,
         "addr": "ул Уфимская, 1",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -9421,14 +9444,14 @@
       "route_km": 11.5,
       "distance_from_route_km": 10.91,
       "status_raw": "yes",
-      "fuels_now_raw": "92",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T15:56:06Z",
       "last_detail": "92",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92",
       "latest_comment_at": "2026-10-23 15:56:06",
-      "ai95_inferred": "no",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "92",
@@ -9467,7 +9490,7 @@
         "lon": 60.8136513,
         "addr": "ул Строителей, 7",
         "status": "yes",
-        "fuels_now": "92",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -9529,12 +9552,12 @@
       "route_km": 12.1,
       "distance_from_route_km": 4.83,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T15:42:08Z",
-      "last_detail": "92, 95, 100, ДТ",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T19:08:19Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 100, ДТ",
-      "latest_comment_at": "2026-10-23 15:42:08",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 19:08:19",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
@@ -9577,7 +9600,7 @@
         "lon": 60.7208016,
         "addr": "Кольцовский тракт, 50",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -9614,8 +9637,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, 100, ДТ",
-          "created_at": "2026-10-23 15:42:08",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 19:08:19",
           "edited": false,
           "on_site": true
         }
@@ -10159,14 +10182,14 @@
       "route_km": 18.9,
       "distance_from_route_km": 10.46,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T13:32:30Z",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:33:19Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 13:32:30",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_at": "2026-10-23 16:33:19",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -10201,7 +10224,7 @@
         "lon": 60.7414031,
         "addr": "тракт Челябинский 19 км, 8",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -10233,7 +10256,7 @@
         {
           "status": "yes",
           "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 13:32:30",
+          "created_at": "2026-10-23 16:33:19",
           "edited": false,
           "on_site": true
         },
@@ -10371,15 +10394,15 @@
       "lon": 60.8670827,
       "route_km": 20.5,
       "distance_from_route_km": 0.3,
-      "status_raw": null,
-      "fuels_now_raw": "",
-      "last_at": null,
-      "last_detail": null,
-      "latest_comment_status": null,
-      "latest_comment_detail": null,
-      "latest_comment_at": null,
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "status_raw": "yes",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T19:09:51Z",
+      "last_detail": "92, 95",
+      "latest_comment_status": "yes",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 19:09:51",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -10423,8 +10446,8 @@
         "lat": 56.7717735,
         "lon": 60.8670827,
         "addr": "Сибирский тракт, 21-й километр",
-        "status": null,
-        "fuels_now": "",
+        "status": "yes",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -10462,7 +10485,15 @@
           ]
         }
       },
-      "recent_comments": []
+      "recent_comments": [
+        {
+          "status": "yes",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 19:09:51",
+          "edited": false,
+          "on_site": true
+        }
+      ]
     },
     {
       "osm_id": "1483419079",
@@ -10475,12 +10506,12 @@
       "route_km": 24.1,
       "distance_from_route_km": 10.79,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T11:52:58Z",
-      "last_detail": "92, ДТ",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T19:51:34Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, ДТ",
-      "latest_comment_at": "2026-10-23 11:52:58",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 19:51:34",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
@@ -10517,7 +10548,7 @@
         "lon": 60.8369313,
         "addr": "ул Парковая, 20",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -10548,8 +10579,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, ДТ",
-          "created_at": "2026-10-23 11:52:58",
+          "detail": "95",
+          "created_at": "2026-10-23 19:51:34",
           "edited": false,
           "on_site": true
         }
@@ -10566,12 +10597,12 @@
       "route_km": 31.8,
       "distance_from_route_km": 0.07,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T14:51:00Z",
-      "last_detail": "92, 95, 100, ДТ",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T20:09:38Z",
+      "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 100, ДТ",
-      "latest_comment_at": "2026-10-23 14:51:00",
+      "latest_comment_detail": "92, 95, ДТ",
+      "latest_comment_at": "2026-10-23 20:09:38",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
@@ -10614,7 +10645,7 @@
         "lon": 61.0369928,
         "addr": "",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -10651,8 +10682,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, 100, ДТ",
-          "created_at": "2026-10-23 14:51:00",
+          "detail": "92, 95, ДТ",
+          "created_at": "2026-10-23 20:09:38",
           "edited": false,
           "on_site": true
         }
@@ -10769,12 +10800,12 @@
       "route_km": 50.4,
       "distance_from_route_km": 2.13,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T14:44:30Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T20:02:48Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 14:44:30",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 20:02:48",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
@@ -10822,7 +10853,7 @@
         "lon": 61.3286717,
         "addr": "ул Химиков, 17",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -10864,8 +10895,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 14:44:30",
+          "detail": "95",
+          "created_at": "2026-10-23 20:02:48",
           "edited": false,
           "on_site": true
         },
@@ -10892,14 +10923,14 @@
       "route_km": 50.5,
       "distance_from_route_km": 2.17,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T13:41:04Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:47:50Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 13:41:04",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 16:47:50",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -10934,7 +10965,7 @@
         "lon": 61.3304689,
         "addr": "ул Химиков, 3А",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -10965,6 +10996,13 @@
       "recent_comments": [
         {
           "status": "yes",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 16:47:50",
+          "edited": false,
+          "on_site": true
+        },
+        {
+          "status": "yes",
           "detail": "92, 95, ДТ",
           "created_at": "2026-10-23 13:41:04",
           "edited": false,
@@ -10972,13 +11010,6 @@
           "author_tier": 0,
           "acct_ok": false,
           "on_site": false
-        },
-        {
-          "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 13:10:54",
-          "edited": false,
-          "on_site": true
         }
       ]
     },
@@ -11054,14 +11085,14 @@
       "route_km": 90.9,
       "distance_from_route_km": 12.05,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T15:04:52Z",
       "last_detail": "92, 95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95",
       "latest_comment_at": "2026-10-23 15:04:52",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -11103,7 +11134,7 @@
         "lon": 62.0430773,
         "addr": "ул Вокзальная, 15",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -11159,14 +11190,14 @@
       "route_km": 90.9,
       "distance_from_route_km": 13.46,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
-      "last_at": null,
-      "last_detail": null,
-      "latest_comment_status": null,
-      "latest_comment_detail": null,
-      "latest_comment_at": null,
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:33:16Z",
+      "last_detail": "92, 95",
+      "latest_comment_status": "yes",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 16:33:16",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -11201,7 +11232,7 @@
         "lon": 62.0404821,
         "addr": "ул Вокзальная, 1А",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -11229,7 +11260,15 @@
           ]
         }
       },
-      "recent_comments": []
+      "recent_comments": [
+        {
+          "status": "yes",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 16:33:16",
+          "edited": false,
+          "on_site": true
+        }
+      ]
     },
     {
       "osm_id": "451722759",
@@ -11337,14 +11376,14 @@
       "route_km": 94.8,
       "distance_from_route_km": 2.64,
       "status_raw": "yes",
-      "fuels_now_raw": "",
+      "fuels_now_raw": "95",
       "last_at": "2026-10-23T13:02:34Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, ДТ",
       "latest_comment_at": "2026-10-23 13:02:34",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -11380,7 +11419,7 @@
         "lon": 62.0352694,
         "addr": "ул Кунавина, 1",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -11538,7 +11577,7 @@
         "100": {
           "p": 99.4,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -11558,7 +11597,7 @@
           "100": {
             "p": 99.4,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         }
       },
@@ -11588,12 +11627,12 @@
         "92": {
           "p": 65.01,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "95": {
           "p": 70.71,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "ДТ": {
           "p": 82.4,
@@ -11618,12 +11657,12 @@
           "92": {
             "p": 65.01,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "95": {
             "p": 70.71,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "ДТ": {
             "p": 82.4,
@@ -11847,12 +11886,12 @@
       "route_km": 177.1,
       "distance_from_route_km": 0.04,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T09:27:20Z",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T16:33:31Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 09:27:20",
+      "latest_comment_at": "2026-10-23 16:33:31",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": null,
@@ -11883,7 +11922,7 @@
         "lon": 63.21742594242098,
         "addr": "",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -11908,7 +11947,7 @@
         {
           "status": "yes",
           "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 09:27:20",
+          "created_at": "2026-10-23 16:33:31",
           "edited": false,
           "on_site": true
         }
@@ -12288,7 +12327,7 @@
       "lon": 64.5633873,
       "route_km": 266.1,
       "distance_from_route_km": 0.05,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T06:23:17Z",
       "last_detail": "92, 95, ДТ",
@@ -12341,7 +12380,7 @@
         "lat": 57.0734165,
         "lon": 64.5633873,
         "addr": "Восточная улица, 25",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -12401,7 +12440,7 @@
       "lon": 65.2093516,
       "route_km": 306.0,
       "distance_from_route_km": 0.08,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T06:27:47Z",
       "last_detail": "92, 95, ДТ",
@@ -12455,7 +12494,7 @@
         "lat": 57.0963312,
         "lon": 65.2093516,
         "addr": "Звёздная улица, 1",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -12517,14 +12556,14 @@
       "route_km": 317.2,
       "distance_from_route_km": 8.65,
       "status_raw": "yes",
-      "fuels_now_raw": "92,100",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T15:56:44Z",
       "last_detail": "92, 100",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 100",
       "latest_comment_at": "2026-10-23 15:56:44",
-      "ai95_inferred": "no",
-      "ai100_inferred": "yes",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -12570,7 +12609,7 @@
         "lon": 65.3607844,
         "addr": "ул Олега Антонова, 18",
         "status": "yes",
-        "fuels_now": "92,100",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -12630,12 +12669,12 @@
       "route_km": 317.7,
       "distance_from_route_km": 0.07,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T14:53:24Z",
-      "last_detail": "92, 95",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T18:44:10Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 14:53:24",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 18:44:10",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
@@ -12678,7 +12717,7 @@
         "lon": 65.4013693,
         "addr": "ул Лесная, 259",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -12715,8 +12754,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-23 14:53:24",
+          "detail": "95",
+          "created_at": "2026-10-23 18:44:10",
           "edited": false,
           "on_site": true
         }
@@ -12835,7 +12874,7 @@
       "lon": 65.4409004,
       "route_km": 321.9,
       "distance_from_route_km": 3.91,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T05:47:42Z",
       "last_detail": "92, 95, ДТ",
@@ -12883,7 +12922,7 @@
         "lat": 57.1575746,
         "lon": 65.4409004,
         "addr": "14-й км, 2",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -13122,14 +13161,14 @@
       "route_km": 322.5,
       "distance_from_route_km": 5.28,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:18:17Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 14:18:17",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -13180,7 +13219,7 @@
         "lon": 65.5210387,
         "addr": "ул Михаила Лермонтова, 8",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -13246,11 +13285,11 @@
       "distance_from_route_km": 5.2,
       "status_raw": "yes",
       "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T14:48:29Z",
+      "last_at": "2026-10-23T20:16:58Z",
       "last_detail": "92, 95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 14:48:29",
+      "latest_comment_at": "2026-10-23 20:16:58",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
@@ -13321,7 +13360,7 @@
         {
           "status": "yes",
           "detail": "92, 95",
-          "created_at": "2026-10-23 14:48:29",
+          "created_at": "2026-10-23 20:16:58",
           "edited": false,
           "on_site": true
         }
@@ -13338,14 +13377,14 @@
       "route_km": 323.3,
       "distance_from_route_km": 3.82,
       "status_raw": "yes",
-      "fuels_now_raw": "",
+      "fuels_now_raw": "92,95",
       "last_at": "2026-10-23T13:18:00Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, ДТ",
       "latest_comment_at": "2026-10-23 13:18:00",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -13391,7 +13430,7 @@
         "lon": 65.4532734,
         "addr": "ул Ямская, 121",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -13451,14 +13490,14 @@
       "route_km": 323.4,
       "distance_from_route_km": 0.08,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T14:52:21Z",
-      "last_detail": "92, 95",
+      "fuels_now_raw": "92,95,100",
+      "last_at": "2026-10-23T20:03:30Z",
+      "last_detail": "92, 95, 100",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 14:52:21",
+      "latest_comment_detail": "92, 95, 100",
+      "latest_comment_at": "2026-10-23 20:03:30",
       "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai100_inferred": "yes",
       "meta": {
         "f": [
           "dt",
@@ -13500,7 +13539,7 @@
         "lon": 65.486142,
         "addr": "ул Московский тракт, 132Б",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "92,95,100",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -13538,8 +13577,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-23 14:52:21",
+          "detail": "92, 95, 100",
+          "created_at": "2026-10-23 20:03:30",
           "edited": false,
           "on_site": true
         }
@@ -13575,7 +13614,7 @@
         "92": {
           "p": 58.01,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "95": {
           "p": 81.0,
@@ -13605,7 +13644,7 @@
           "92": {
             "p": 58.01,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "95": {
             "p": 81.0,
@@ -13964,11 +14003,11 @@
       "distance_from_route_km": 2.65,
       "status_raw": "yes",
       "fuels_now_raw": "95",
-      "last_at": "2026-10-23T15:42:32Z",
+      "last_at": "2026-10-23T18:43:23Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
-      "latest_comment_at": "2026-10-23 15:42:32",
+      "latest_comment_at": "2026-10-23 18:43:23",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
@@ -13997,7 +14036,7 @@
         "ДТ": {
           "p": 88.82,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -14032,7 +14071,7 @@
           "ДТ": {
             "p": 88.82,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         },
         "meta": {
@@ -14047,7 +14086,7 @@
         {
           "status": "yes",
           "detail": "95",
-          "created_at": "2026-10-23 15:42:32",
+          "created_at": "2026-10-23 18:43:23",
           "edited": false,
           "on_site": true
         }
@@ -14134,14 +14173,14 @@
       "route_km": 330.1,
       "distance_from_route_km": 6.52,
       "status_raw": "yes",
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T11:07:47Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "92,100",
+      "last_at": "2026-10-23T18:55:43Z",
+      "last_detail": "92, 100",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 11:07:47",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "latest_comment_detail": "92, 100",
+      "latest_comment_at": "2026-10-23 18:55:43",
+      "ai95_inferred": "no",
+      "ai100_inferred": "yes",
       "meta": {
         "f": [
           "dt",
@@ -14159,12 +14198,12 @@
         "92": {
           "p": 58.8,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "95": {
           "p": 63.95,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "ДТ": {
           "p": 80.0,
@@ -14182,7 +14221,7 @@
         "lon": 65.599748,
         "addr": "ул Щербакова, 221",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "92,100",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -14194,12 +14233,12 @@
           "92": {
             "p": 58.8,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "95": {
             "p": 63.95,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "ДТ": {
             "p": 80.0,
@@ -14219,8 +14258,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 11:07:47",
+          "detail": "92, 100",
+          "created_at": "2026-10-23 18:55:43",
           "edited": false,
           "on_site": true
         }
@@ -14236,7 +14275,7 @@
       "lon": 65.5405054,
       "route_km": 330.1,
       "distance_from_route_km": 2.24,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T05:40:57Z",
       "last_detail": "ДТ",
@@ -14267,7 +14306,7 @@
         "98": {
           "p": 88.34,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "ДТ": {
           "p": 88.82,
@@ -14284,7 +14323,7 @@
         "lat": 57.1750771,
         "lon": 65.5405054,
         "addr": "ул Щербакова, 79в",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -14302,7 +14341,7 @@
           "98": {
             "p": 88.34,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "ДТ": {
             "p": 88.82,
@@ -14340,14 +14379,14 @@
       "route_km": 330.1,
       "distance_from_route_km": 7.49,
       "status_raw": "yes",
-      "fuels_now_raw": "",
+      "fuels_now_raw": "95,100",
       "last_at": "2026-10-23T06:28:28Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, ДТ",
       "latest_comment_at": "2026-10-23 06:28:28",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "yes",
       "meta": {
         "f": [
           "dt",
@@ -14393,7 +14432,7 @@
         "lon": 65.4842435,
         "addr": "тракт Салаирский 7 км, 1",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "95,100",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -14453,14 +14492,14 @@
       "route_km": 330.1,
       "distance_from_route_km": 3.95,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:46:10Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 14:46:10",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -14501,7 +14540,7 @@
         "lon": 65.5619837,
         "addr": "ул Щербакова, 113",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -14767,7 +14806,7 @@
       "lon": 65.5681041,
       "route_km": 331.6,
       "distance_from_route_km": 1.65,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T07:33:22Z",
       "last_detail": "95",
@@ -14789,22 +14828,22 @@
         "100": {
           "p": 92.13,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "92": {
           "p": 62.5,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "95": {
           "p": 68.13,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "ДТ": {
           "p": 78.72,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -14816,7 +14855,7 @@
         "lat": 57.159157,
         "lon": 65.5681041,
         "addr": "ул Профсоюзная, 1",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -14824,22 +14863,22 @@
           "100": {
             "p": 92.13,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "92": {
             "p": 62.5,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "95": {
             "p": 68.13,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "ДТ": {
             "p": 78.72,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         },
         "meta": {
@@ -14876,14 +14915,14 @@
       "route_km": 332.4,
       "distance_from_route_km": 3.36,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
-      "last_at": "2026-10-23T14:20:54Z",
-      "last_detail": "92",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T18:16:32Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92",
-      "latest_comment_at": "2026-10-23 14:20:54",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 18:16:32",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -14924,7 +14963,7 @@
         "lon": 65.5991137,
         "addr": "ул Мельникайте, 12",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -14961,8 +15000,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92",
-          "created_at": "2026-10-23 14:20:54",
+          "detail": "95",
+          "created_at": "2026-10-23 18:16:32",
           "edited": false,
           "on_site": true
         }
@@ -14979,13 +15018,13 @@
       "route_km": 332.7,
       "distance_from_route_km": 0.87,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T15:44:25Z",
-      "last_detail": "92, 95",
+      "fuels_now_raw": "ДТ",
+      "last_at": "2026-10-23T20:04:00Z",
+      "last_detail": "ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 15:44:25",
-      "ai95_inferred": "yes",
+      "latest_comment_detail": "ДТ",
+      "latest_comment_at": "2026-10-23 20:04:00",
+      "ai95_inferred": "no",
       "ai100_inferred": "no",
       "meta": {
         "f": [
@@ -15019,7 +15058,7 @@
         }
       },
       "conflict": null,
-      "dt_only": 0,
+      "dt_only": 1,
       "station_raw": {
         "osm_id": "244255975",
         "name": "Лукойл",
@@ -15028,8 +15067,8 @@
         "lon": 65.5529188,
         "addr": "ул 50 лет ВЛКСМ, 46",
         "status": "yes",
-        "fuels_now": "92,95",
-        "dt_only": 0,
+        "fuels_now": "ДТ",
+        "dt_only": 1,
         "conflict": null,
         "prices_now": {
           "100": {
@@ -15066,8 +15105,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-23 15:44:25",
+          "detail": "ДТ",
+          "created_at": "2026-10-23 20:04:00",
           "edited": false,
           "on_site": true
         },
@@ -15185,14 +15224,14 @@
       "route_km": 333.8,
       "distance_from_route_km": 2.28,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
-      "last_at": "2026-10-23T16:04:19Z",
-      "last_detail": "95",
+      "fuels_now_raw": "100",
+      "last_at": "2026-10-23T20:09:47Z",
+      "last_detail": "100",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "95",
-      "latest_comment_at": "2026-10-23 16:04:19",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "100",
+      "latest_comment_at": "2026-10-23 20:09:47",
+      "ai95_inferred": "no",
+      "ai100_inferred": "yes",
       "meta": {
         "f": [
           "dt",
@@ -15243,7 +15282,7 @@
         "lon": 65.5504374,
         "addr": "ул Широтная, 6/1",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "100",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -15290,8 +15329,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "95",
-          "created_at": "2026-10-23 16:04:19",
+          "detail": "100",
+          "created_at": "2026-10-23 20:09:47",
           "edited": false,
           "on_site": true
         },
@@ -15328,14 +15367,14 @@
       "route_km": 333.9,
       "distance_from_route_km": 1.08,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,100,ДТ",
-      "last_at": "2026-10-23T15:43:17Z",
-      "last_detail": "92, 95, 100, ДТ",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T20:05:09Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 100, ДТ",
-      "latest_comment_at": "2026-10-23 15:43:17",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 20:05:09",
       "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": null,
       "prices_now": {
         "100": {
@@ -15369,7 +15408,7 @@
         "lon": 65.5654138326645,
         "addr": "ул 30 лет Победы, 34",
         "status": "yes",
-        "fuels_now": "92,95,100,ДТ",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -15398,8 +15437,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, 100, ДТ",
-          "created_at": "2026-10-23 15:43:17",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 20:05:09",
           "edited": false,
           "on_site": true
         }
@@ -15524,14 +15563,14 @@
       "route_km": 334.2,
       "distance_from_route_km": 3.32,
       "status_raw": "yes",
-      "fuels_now_raw": "",
+      "fuels_now_raw": "95",
       "last_at": "2026-10-23T11:09:12Z",
       "last_detail": "92, 95, 100, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, 100, ДТ",
       "latest_comment_at": "2026-10-23 11:09:12",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -15572,7 +15611,7 @@
         "lon": 65.6196397,
         "addr": "ул Дамбовская, 45а",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -15626,7 +15665,7 @@
       "lon": 65.588998,
       "route_km": 335.1,
       "distance_from_route_km": 0.49,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T06:56:55Z",
       "last_detail": "92, 95, ДТ",
@@ -15647,7 +15686,7 @@
         "92": {
           "p": 58.01,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "95": {
           "p": 80.94,
@@ -15669,7 +15708,7 @@
         "lat": 57.1225074,
         "lon": 65.588998,
         "addr": "ул 50 лет ВЛКСМ, 111",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -15677,7 +15716,7 @@
           "92": {
             "p": 58.01,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "95": {
             "p": 80.94,
@@ -15730,14 +15769,14 @@
       "route_km": 335.1,
       "distance_from_route_km": 0.36,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T15:56:26Z",
-      "last_detail": "92, 95",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:12:14Z",
+      "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 15:56:26",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "92, 95, ДТ",
+      "latest_comment_at": "2026-10-23 16:12:14",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -15772,7 +15811,7 @@
         "lon": 65.5950701,
         "addr": "ул Пермякова, 11",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -15803,8 +15842,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-23 15:56:26",
+          "detail": "92, 95, ДТ",
+          "created_at": "2026-10-23 16:12:14",
           "edited": false,
           "on_site": true
         }
@@ -15841,17 +15880,17 @@
         "92": {
           "p": 62.6,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "95": {
           "p": 67.98,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "ДТ": {
           "p": 78.52,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -15871,17 +15910,17 @@
           "92": {
             "p": 62.6,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "95": {
             "p": 67.98,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "ДТ": {
             "p": 78.52,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         },
         "meta": {
@@ -15929,7 +15968,7 @@
         "95": {
           "p": 63.7,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "ДТ": {
           "p": 82.7,
@@ -15964,7 +16003,7 @@
           "95": {
             "p": 63.7,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "ДТ": {
             "p": 82.7,
@@ -16264,7 +16303,7 @@
       "lon": 65.6203357,
       "route_km": 337.8,
       "distance_from_route_km": 1.05,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T06:27:29Z",
       "last_detail": "92, 95, ДТ",
@@ -16317,7 +16356,7 @@
         "lat": 57.1059295,
         "lon": 65.6203357,
         "addr": "Таллинская улица, 73",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -16378,14 +16417,14 @@
       "route_km": 337.9,
       "distance_from_route_km": 0.05,
       "status_raw": "yes",
-      "fuels_now_raw": "92",
-      "last_at": "2026-10-23T06:13:40Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:53:50Z",
+      "last_detail": "92",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 06:13:40",
-      "ai95_inferred": "no",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 16:53:50",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -16426,7 +16465,7 @@
         "lon": 65.6326936,
         "addr": "ул Республики, 257",
         "status": "yes",
-        "fuels_now": "92",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -16463,8 +16502,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 06:13:40",
+          "detail": "92",
+          "created_at": "2026-10-23 16:53:50",
           "edited": false,
           "on_site": true
         }
@@ -16480,7 +16519,7 @@
       "lon": 65.6599835,
       "route_km": 338.2,
       "distance_from_route_km": 3.36,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T06:16:45Z",
       "last_detail": "92, 95, ДТ",
@@ -16523,7 +16562,7 @@
         "lat": 57.139927,
         "lon": 65.6599835,
         "addr": "Западносибирская улица, 37",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -16667,7 +16706,7 @@
       "route_km": 338.3,
       "distance_from_route_km": 0.03,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
+      "fuels_now_raw": "92,95",
       "last_at": "2026-10-23T14:33:30Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
@@ -16685,7 +16724,7 @@
         "95": {
           "p": 71.42,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "ДТ": {
           "p": 82.8,
@@ -16703,7 +16742,7 @@
         "lon": 65.63839450680835,
         "addr": "ул Республики, 252б",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -16715,7 +16754,7 @@
           "95": {
             "p": 71.42,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "ДТ": {
             "p": 82.8,
@@ -16755,11 +16794,11 @@
       "distance_from_route_km": 0.87,
       "status_raw": "yes",
       "fuels_now_raw": "",
-      "last_at": "2026-10-23T10:24:42Z",
-      "last_detail": "92, 95",
+      "last_at": "2026-10-23T17:52:00Z",
+      "last_detail": "92",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 10:24:42",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 17:52:00",
       "ai95_inferred": "unknown",
       "ai100_inferred": "unknown",
       "meta": {
@@ -16778,12 +16817,12 @@
         "95": {
           "p": 71.42,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "ДТ": {
           "p": 82.87,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -16808,12 +16847,12 @@
           "95": {
             "p": 71.42,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "ДТ": {
             "p": 82.87,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         },
         "meta": {
@@ -16827,8 +16866,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-23 10:24:42",
+          "detail": "92",
+          "created_at": "2026-10-23 17:52:00",
           "edited": false,
           "on_site": true
         }
@@ -16845,14 +16884,14 @@
       "route_km": 339.6,
       "distance_from_route_km": 3.09,
       "status_raw": "yes",
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T10:04:32Z",
-      "last_detail": "92, 95, 100",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T18:44:41Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 100",
-      "latest_comment_at": "2026-10-23 10:04:32",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 18:44:41",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -16898,7 +16937,7 @@
         "lon": 65.6222302,
         "addr": "",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -16940,8 +16979,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, 100",
-          "created_at": "2026-10-23 10:04:32",
+          "detail": "95",
+          "created_at": "2026-10-23 18:44:41",
           "edited": false,
           "on_site": true
         },
@@ -16967,14 +17006,14 @@
       "route_km": 340.3,
       "distance_from_route_km": 1.32,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,100",
-      "last_at": "2026-10-23T15:01:12Z",
-      "last_detail": "92, ДТ",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:11:26Z",
+      "last_detail": "92, 95, 100",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, ДТ",
-      "latest_comment_at": "2026-10-23 15:01:12",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "latest_comment_detail": "92, 95, 100",
+      "latest_comment_at": "2026-10-23 16:11:26",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -17021,7 +17060,7 @@
         "lon": 65.6766853,
         "addr": "Окружная дорога, 348",
         "status": "yes",
-        "fuels_now": "92,95,100",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -17064,8 +17103,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, ДТ",
-          "created_at": "2026-10-23 15:01:12",
+          "detail": "92, 95, 100",
+          "created_at": "2026-10-23 16:11:26",
           "edited": false,
           "on_site": true
         }
@@ -17082,14 +17121,14 @@
       "route_km": 340.4,
       "distance_from_route_km": 1.4,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T15:41:31Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, ДТ",
       "latest_comment_at": "2026-10-23 15:41:31",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -17131,7 +17170,7 @@
         "lon": 65.6789061,
         "addr": "Старый Тобольский тракт 1-й километр",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -17186,7 +17225,7 @@
       "lon": 65.68112865022944,
       "route_km": 340.9,
       "distance_from_route_km": 0.83,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T06:13:54Z",
       "last_detail": "92, 95, ДТ",
@@ -17212,7 +17251,7 @@
         "lat": 57.103160895375645,
         "lon": 65.68112865022944,
         "addr": "2-й км, 2",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -17384,14 +17423,14 @@
       "route_km": 350.2,
       "distance_from_route_km": 0.04,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T15:41:43Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, ДТ",
       "latest_comment_at": "2026-10-23 15:41:43",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -17409,17 +17448,17 @@
         "92": {
           "p": 64.73,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "95": {
           "p": 71.42,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "ДТ": {
           "p": 82.87,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -17432,7 +17471,7 @@
         "lon": 65.7446028,
         "addr": "",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -17444,17 +17483,17 @@
           "92": {
             "p": 64.73,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "95": {
             "p": 71.42,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "ДТ": {
             "p": 82.87,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         },
         "meta": {
@@ -17486,15 +17525,15 @@
       "lon": 65.7354133,
       "route_km": 357.8,
       "distance_from_route_km": 3.62,
-      "status_raw": null,
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T03:51:42Z",
-      "last_detail": "92, 95, ДТ",
+      "status_raw": "yes",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T19:49:58Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 03:51:42",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 19:49:58",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -17534,8 +17573,8 @@
         "lat": 56.9588164,
         "lon": 65.7354133,
         "addr": "24-й километр",
-        "status": null,
-        "fuels_now": "",
+        "status": "yes",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -17572,8 +17611,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 03:51:42",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 19:49:58",
           "edited": false,
           "on_site": true
         }
@@ -17589,7 +17628,7 @@
       "lon": 65.8509614,
       "route_km": 366.0,
       "distance_from_route_km": 0.04,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T09:14:16Z",
       "last_detail": "92, 95",
@@ -17636,7 +17675,7 @@
         "lat": 56.9066311,
         "lon": 65.8509614,
         "addr": "36-й километр автодороги Р-402",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -17720,7 +17759,7 @@
         "ДТ": {
           "p": 82.53,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -17750,7 +17789,7 @@
           "ДТ": {
             "p": 82.53,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         },
         "meta": {
@@ -17864,7 +17903,7 @@
       "lon": 66.251813,
       "route_km": 405.9,
       "distance_from_route_km": 0.04,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T08:11:59Z",
       "last_detail": "95",
@@ -17913,7 +17952,7 @@
         "lat": 56.6308185,
         "lon": 66.251813,
         "addr": "76-й километр трассы Тюмень-Омск",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -18123,14 +18162,14 @@
       "route_km": 424.6,
       "distance_from_route_km": 0.05,
       "status_raw": "yes",
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T11:09:08Z",
-      "last_detail": "92, 95",
+      "fuels_now_raw": "92,95,ДТ",
+      "last_at": "2026-10-23T18:55:15Z",
+      "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 11:09:08",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "latest_comment_detail": "92, 95, ДТ",
+      "latest_comment_at": "2026-10-23 18:55:15",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -18165,7 +18204,7 @@
         "lon": 66.476206,
         "addr": "94-й километр автодороги P-402",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "92,95,ДТ",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -18196,8 +18235,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-23 11:09:08",
+          "detail": "92, 95, ДТ",
+          "created_at": "2026-10-23 18:55:15",
           "edited": false,
           "on_site": true
         }
@@ -18238,7 +18277,7 @@
         "95": {
           "p": 70.57,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "ДТ": {
           "p": 80.99,
@@ -18268,7 +18307,7 @@
           "95": {
             "p": 70.57,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "ДТ": {
             "p": 80.99,
@@ -18297,13 +18336,13 @@
       "route_km": 429.1,
       "distance_from_route_km": 3.89,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T14:11:19Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "92",
+      "last_at": "2026-10-23T19:15:43Z",
+      "last_detail": "92",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 14:11:19",
-      "ai95_inferred": "yes",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 19:15:43",
+      "ai95_inferred": "no",
       "ai100_inferred": "no",
       "meta": {
         "f": [
@@ -18340,7 +18379,7 @@
         "lon": 66.539698,
         "addr": "ул Энергетиков, 16",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "92",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -18372,8 +18411,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 14:11:19",
+          "detail": "92",
+          "created_at": "2026-10-23 19:15:43",
           "edited": false,
           "on_site": true
         }
@@ -18390,13 +18429,13 @@
       "route_km": 449.7,
       "distance_from_route_km": 0.09,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T14:01:47Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "92",
+      "last_at": "2026-10-23T19:02:42Z",
+      "last_detail": "92",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 14:01:47",
-      "ai95_inferred": "yes",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 19:02:42",
+      "ai95_inferred": "no",
       "ai100_inferred": "no",
       "meta": {
         "f": [
@@ -18432,7 +18471,7 @@
         "lon": 66.8768912,
         "addr": "121 км автодороги Р-402",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "92",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -18463,8 +18502,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 14:01:47",
+          "detail": "92",
+          "created_at": "2026-10-23 19:02:42",
           "edited": false,
           "on_site": true
         }
@@ -18481,14 +18520,14 @@
       "route_km": 489.0,
       "distance_from_route_km": 0.1,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:52:24Z",
       "last_detail": "92, 95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95",
       "latest_comment_at": "2026-10-23 14:52:24",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "92",
@@ -18522,7 +18561,7 @@
         "lon": 67.5138138,
         "addr": "",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -18570,14 +18609,14 @@
       "route_km": 497.0,
       "distance_from_route_km": 0.08,
       "status_raw": "yes",
-      "fuels_now_raw": "ДТ",
-      "last_at": "2026-10-23T14:26:05Z",
-      "last_detail": "ДТ",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:15:00Z",
+      "last_detail": "92",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "ДТ",
-      "latest_comment_at": "2026-10-23 14:26:05",
-      "ai95_inferred": "no",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 16:15:00",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -18608,7 +18647,7 @@
         }
       },
       "conflict": null,
-      "dt_only": 1,
+      "dt_only": 0,
       "station_raw": {
         "osm_id": "582851473",
         "name": "Газпромнефть",
@@ -18617,8 +18656,8 @@
         "lon": 67.6420509,
         "addr": "166-й километр автодороги Р-402",
         "status": "yes",
-        "fuels_now": "ДТ",
-        "dt_only": 1,
+        "fuels_now": "",
+        "dt_only": 0,
         "conflict": null,
         "prices_now": {
           "92": {
@@ -18653,8 +18692,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "ДТ",
-          "created_at": "2026-10-23 14:26:05",
+          "detail": "92",
+          "created_at": "2026-10-23 16:15:00",
           "edited": false,
           "on_site": true
         }
@@ -18672,11 +18711,11 @@
       "distance_from_route_km": 3.33,
       "status_raw": "yes",
       "fuels_now_raw": "",
-      "last_at": "2026-10-23T13:42:31Z",
+      "last_at": "2026-10-23T15:25:21Z",
       "last_detail": "92, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, ДТ",
-      "latest_comment_at": "2026-10-23 13:42:31",
+      "latest_comment_at": "2026-10-23 15:25:21",
       "ai95_inferred": "unknown",
       "ai100_inferred": "unknown",
       "meta": {
@@ -18690,17 +18729,17 @@
         "92": {
           "p": 65.13,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "95": {
           "p": 70.43,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "ДТ": {
           "p": 81.85,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -18720,17 +18759,17 @@
           "92": {
             "p": 65.13,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "95": {
             "p": 70.43,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "ДТ": {
             "p": 81.85,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         },
         "meta": {
@@ -18745,7 +18784,7 @@
         {
           "status": "yes",
           "detail": "92, ДТ",
-          "created_at": "2026-10-23 13:42:31",
+          "created_at": "2026-10-23 15:25:21",
           "edited": false,
           "on_site": true
         }
@@ -18762,13 +18801,13 @@
       "route_km": 546.3,
       "distance_from_route_km": 3.83,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T14:44:28Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "92",
+      "last_at": "2026-10-23T19:49:14Z",
+      "last_detail": "92",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 14:44:28",
-      "ai95_inferred": "yes",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 19:49:14",
+      "ai95_inferred": "no",
       "ai100_inferred": "no",
       "meta": {
         "f": [
@@ -18804,7 +18843,7 @@
         "lon": 68.3881778,
         "addr": "ул Островского, 1М",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "92",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -18835,8 +18874,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 14:44:28",
+          "detail": "92",
+          "created_at": "2026-10-23 19:49:14",
           "edited": false,
           "on_site": true
         }
@@ -18854,11 +18893,11 @@
       "distance_from_route_km": 0.05,
       "status_raw": "yes",
       "fuels_now_raw": "",
-      "last_at": "2026-10-23T13:37:48Z",
-      "last_detail": "ДТ",
+      "last_at": "2026-10-23T17:38:11Z",
+      "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "ДТ",
-      "latest_comment_at": "2026-10-23 13:37:48",
+      "latest_comment_detail": "92, 95, ДТ",
+      "latest_comment_at": "2026-10-23 17:38:11",
       "ai95_inferred": "unknown",
       "ai100_inferred": "unknown",
       "meta": {
@@ -18926,8 +18965,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "ДТ",
-          "created_at": "2026-10-23 13:37:48",
+          "detail": "92, 95, ДТ",
+          "created_at": "2026-10-23 17:38:11",
           "edited": false,
           "on_site": true
         }
@@ -19111,11 +19150,11 @@
       "distance_from_route_km": 0.04,
       "status_raw": "yes",
       "fuels_now_raw": "",
-      "last_at": "2026-10-23T07:42:30Z",
-      "last_detail": "92, 95, ДТ",
+      "last_at": "2026-10-23T18:16:21Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 07:42:30",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 18:16:21",
       "ai95_inferred": "unknown",
       "ai100_inferred": "unknown",
       "meta": {
@@ -19193,8 +19232,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 07:42:30",
+          "detail": "95",
+          "created_at": "2026-10-23 18:16:21",
           "edited": false,
           "on_site": true
         }
@@ -19210,7 +19249,7 @@
       "lon": 69.3946629,
       "route_km": 627.9,
       "distance_from_route_km": 5.77,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T05:44:05Z",
       "last_detail": "ДТ",
@@ -19253,7 +19292,7 @@
         "lat": 56.1015313,
         "lon": 69.3946629,
         "addr": "Ялуторовская улица, 100",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -19303,7 +19342,7 @@
       "lon": 69.4192912,
       "route_km": 627.9,
       "distance_from_route_km": 4.27,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T06:53:45Z",
       "last_detail": "ДТ",
@@ -19345,7 +19384,7 @@
         "lat": 56.1028953,
         "lon": 69.4192912,
         "addr": "Ялуторовская улица, 65",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -19394,7 +19433,7 @@
       "lon": 69.5030767,
       "route_km": 628.7,
       "distance_from_route_km": 0.77,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T06:35:33Z",
       "last_detail": "92, ДТ",
@@ -19436,7 +19475,7 @@
         "lat": 56.1117368,
         "lon": 69.5030767,
         "addr": "ул Малая Садовая, 209",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -19485,7 +19524,7 @@
       "lon": 69.53337371358886,
       "route_km": 632.8,
       "distance_from_route_km": 0.92,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T05:42:31Z",
       "last_detail": "92, 95",
@@ -19526,7 +19565,7 @@
         "lat": 56.12732684967702,
         "lon": 69.53337371358886,
         "addr": "ул Калинина, 105",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -19574,13 +19613,13 @@
       "route_km": 692.6,
       "distance_from_route_km": 0.05,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T10:26:26Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "92,ДТ",
+      "last_at": "2026-10-23T18:54:10Z",
+      "last_detail": "92, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 10:26:26",
-      "ai95_inferred": "yes",
+      "latest_comment_detail": "92, ДТ",
+      "latest_comment_at": "2026-10-23 18:54:10",
+      "ai95_inferred": "no",
       "ai100_inferred": "no",
       "meta": {
         "f": [
@@ -19616,7 +19655,7 @@
         "lon": 70.408804,
         "addr": "улица Ленина, 104",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "92,ДТ",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -19647,8 +19686,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 10:26:26",
+          "detail": "92, ДТ",
+          "created_at": "2026-10-23 18:54:10",
           "edited": false,
           "on_site": true
         }
@@ -19665,14 +19704,14 @@
       "route_km": 694.5,
       "distance_from_route_km": 0.07,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T14:53:37Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T17:45:30Z",
+      "last_detail": "ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 14:53:37",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "ДТ",
+      "latest_comment_at": "2026-10-23 17:45:30",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -19709,7 +19748,7 @@
         "lon": 70.4381514,
         "addr": "354 км + 540 м а/д Тюмень - Ялуторовск - Ишим - Омск",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -19742,8 +19781,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 14:53:37",
+          "detail": "ДТ",
+          "created_at": "2026-10-23 17:45:30",
           "edited": false,
           "on_site": true
         }
@@ -19760,12 +19799,12 @@
       "route_km": 775.8,
       "distance_from_route_km": 0.07,
       "status_raw": "yes",
-      "fuels_now_raw": "92,ДТ",
-      "last_at": "2026-10-23T14:58:00Z",
-      "last_detail": "92, ДТ",
+      "fuels_now_raw": "92",
+      "last_at": "2026-10-23T20:16:43Z",
+      "last_detail": "92",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, ДТ",
-      "latest_comment_at": "2026-10-23 14:58:00",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 20:16:43",
       "ai95_inferred": "no",
       "ai100_inferred": "no",
       "meta": {
@@ -19807,7 +19846,7 @@
         "lon": 71.4862719,
         "addr": "438-й километр автодороги Р-402",
         "status": "yes",
-        "fuels_now": "92,ДТ",
+        "fuels_now": "92",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -19843,8 +19882,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, ДТ",
-          "created_at": "2026-10-23 14:58:00",
+          "detail": "92",
+          "created_at": "2026-10-23 20:16:43",
           "edited": false,
           "on_site": true
         }
@@ -19947,7 +19986,7 @@
       "lon": 72.2124329,
       "route_km": 825.7,
       "distance_from_route_km": 0.04,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T08:24:33Z",
       "last_detail": "92, 95, ДТ",
@@ -20008,7 +20047,7 @@
         "lat": 55.8642616,
         "lon": 72.2124329,
         "addr": "Магистральная улица, 53",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -20077,14 +20116,14 @@
       "route_km": 860.8,
       "distance_from_route_km": 0.04,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
-      "last_at": "2026-10-23T12:34:59Z",
-      "last_detail": "ДТ",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:12:27Z",
+      "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "ДТ",
-      "latest_comment_at": "2026-10-23 12:34:59",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "92, 95, ДТ",
+      "latest_comment_at": "2026-10-23 16:12:27",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -20119,7 +20158,7 @@
         "lon": 72.5115813,
         "addr": "Степная улица, 36",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -20150,8 +20189,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "ДТ",
-          "created_at": "2026-10-23 12:34:59",
+          "detail": "92, 95, ДТ",
+          "created_at": "2026-10-23 16:12:27",
           "edited": false,
           "on_site": true
         }
@@ -20551,7 +20590,7 @@
       "lon": 73.2034871,
       "route_km": 950.1,
       "distance_from_route_km": 5.68,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T08:39:25Z",
       "last_detail": "92",
@@ -20594,7 +20633,7 @@
         "lat": 55.0583027,
         "lon": 73.2034871,
         "addr": "ул Доковская, 29",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -21619,15 +21658,15 @@
       "lon": 73.2613357,
       "route_km": 957.3,
       "distance_from_route_km": 5.26,
-      "status_raw": null,
-      "fuels_now_raw": "",
-      "last_at": null,
-      "last_detail": null,
-      "latest_comment_status": null,
-      "latest_comment_detail": null,
-      "latest_comment_at": null,
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "status_raw": "yes",
+      "fuels_now_raw": "92",
+      "last_at": "2026-10-23T19:52:29Z",
+      "last_detail": "92",
+      "latest_comment_status": "yes",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 19:52:29",
+      "ai95_inferred": "no",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -21661,8 +21700,8 @@
         "lat": 55.044065,
         "lon": 73.2613357,
         "addr": "ул Нефтезаводская, 16/1",
-        "status": null,
-        "fuels_now": "",
+        "status": "yes",
+        "fuels_now": "92",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -21690,7 +21729,15 @@
           ]
         }
       },
-      "recent_comments": []
+      "recent_comments": [
+        {
+          "status": "yes",
+          "detail": "92",
+          "created_at": "2026-10-23 19:52:29",
+          "edited": false,
+          "on_site": true
+        }
+      ]
     },
     {
       "osm_id": "2934145100",
@@ -22199,7 +22246,7 @@
       "lon": 73.2835802,
       "route_km": 958.1,
       "distance_from_route_km": 0.44,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T08:13:02Z",
       "last_detail": "92, 95, ДТ",
@@ -22236,7 +22283,7 @@
         "lat": 54.9906403,
         "lon": 73.2835802,
         "addr": "ул Перелета, 5Б",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -22748,13 +22795,13 @@
       "lon": 73.3114197,
       "route_km": 959.3,
       "distance_from_route_km": 1.41,
-      "status_raw": null,
+      "status_raw": "yes",
       "fuels_now_raw": "",
-      "last_at": null,
-      "last_detail": null,
-      "latest_comment_status": null,
-      "latest_comment_detail": null,
-      "latest_comment_at": null,
+      "last_at": "2026-10-23T18:18:02Z",
+      "last_detail": "92, 95, 98",
+      "latest_comment_status": "yes",
+      "latest_comment_detail": "92, 95, 98",
+      "latest_comment_at": "2026-10-23 18:18:02",
       "ai95_inferred": "unknown",
       "ai100_inferred": "unknown",
       "meta": {
@@ -22769,12 +22816,12 @@
         "92": {
           "p": 62.82,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "95": {
           "p": 68.67,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "98": {
           "p": 83.97,
@@ -22784,7 +22831,7 @@
         "ДТ": {
           "p": 80.37,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -22796,7 +22843,7 @@
         "lat": 54.9752301,
         "lon": 73.3114197,
         "addr": "ул Конева, 31",
-        "status": null,
+        "status": "yes",
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -22804,12 +22851,12 @@
           "92": {
             "p": 62.82,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "95": {
             "p": 68.67,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "98": {
             "p": 83.97,
@@ -22819,7 +22866,7 @@
           "ДТ": {
             "p": 80.37,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         },
         "meta": {
@@ -22831,7 +22878,15 @@
           ]
         }
       },
-      "recent_comments": []
+      "recent_comments": [
+        {
+          "status": "yes",
+          "detail": "92, 95, 98",
+          "created_at": "2026-10-23 18:18:02",
+          "edited": false,
+          "on_site": true
+        }
+      ]
     },
     {
       "osm_id": "1354677694",
@@ -23040,14 +23095,14 @@
       "route_km": 960.5,
       "distance_from_route_km": 2.62,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:18:58Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 14:18:58",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": null,
       "prices_now": {
         "92": {
@@ -23081,7 +23136,7 @@
         "lon": 73.33547294139863,
         "addr": "ул Березовая, 1",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -23500,14 +23555,14 @@
       "route_km": 963.6,
       "distance_from_route_km": 6.99,
       "status_raw": "yes",
-      "fuels_now_raw": "95,ДТ",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:55:55Z",
       "last_detail": "95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95, ДТ",
       "latest_comment_at": "2026-10-23 14:55:55",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -23548,7 +23603,7 @@
         "lon": 73.3518051,
         "addr": "ул 1-й Красной Звезды, 53",
         "status": "yes",
-        "fuels_now": "95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -24056,14 +24111,14 @@
       "route_km": 966.9,
       "distance_from_route_km": 2.56,
       "status_raw": "yes",
-      "fuels_now_raw": "92",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:21:15Z",
       "last_detail": "92",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92",
       "latest_comment_at": "2026-10-23 14:21:15",
-      "ai95_inferred": "no",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -24104,7 +24159,7 @@
         "lon": 73.4072925,
         "addr": "ул 8-я Восточная, 21А",
         "status": "yes",
-        "fuels_now": "92",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -24179,12 +24234,12 @@
         "92": {
           "p": 61.62,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "95": {
           "p": 67.87,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "ДТ": {
           "p": 78.87,
@@ -24209,12 +24264,12 @@
           "92": {
             "p": 61.62,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "95": {
             "p": 67.87,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "ДТ": {
             "p": 78.87,
@@ -24252,12 +24307,12 @@
       "route_km": 968.0,
       "distance_from_route_km": 5.22,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T15:42:24Z",
-      "last_detail": "92, 95",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T18:56:20Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 15:42:24",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 18:56:20",
       "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
@@ -24300,7 +24355,7 @@
         "lon": 73.3707972,
         "addr": "ул 9-я Ленинская, 51",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -24337,8 +24392,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-23 15:42:24",
+          "detail": "95",
+          "created_at": "2026-10-23 18:56:20",
           "edited": false,
           "on_site": true
         }
@@ -24722,12 +24777,12 @@
         "92": {
           "p": 62.82,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "95": {
           "p": 68.67,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "98": {
           "p": 83.97,
@@ -24737,7 +24792,7 @@
         "ДТ": {
           "p": 81.42,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -24757,12 +24812,12 @@
           "92": {
             "p": 62.82,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "95": {
             "p": 68.67,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "98": {
             "p": 83.97,
@@ -24772,7 +24827,7 @@
           "ДТ": {
             "p": 81.42,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         },
         "meta": {
@@ -24975,7 +25030,7 @@
       "lon": 73.4230232,
       "route_km": 969.9,
       "distance_from_route_km": 3.81,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T09:05:55Z",
       "last_detail": "92, 95",
@@ -25023,7 +25078,7 @@
         "lat": 54.9519135,
         "lon": 73.4230232,
         "addr": "ул 4-я Транспортная, 36",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -25424,14 +25479,14 @@
       "route_km": 970.5,
       "distance_from_route_km": 3.22,
       "status_raw": "yes",
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T12:20:21Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "92",
+      "last_at": "2026-10-23T18:54:55Z",
+      "last_detail": "92",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 12:20:21",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 18:54:55",
+      "ai95_inferred": "no",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -25467,7 +25522,7 @@
         "lon": 73.431108,
         "addr": "ул 3-я Транспортная, 18",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "92",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -25499,8 +25554,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 12:20:21",
+          "detail": "92",
+          "created_at": "2026-10-23 18:54:55",
           "edited": false,
           "on_site": true
         }
@@ -25659,7 +25714,7 @@
         "ДТ": {
           "p": 79.53,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -25694,7 +25749,7 @@
           "ДТ": {
             "p": 79.53,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         },
         "meta": {
@@ -25862,7 +25917,7 @@
         "92": {
           "p": 62.29,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         },
         "95": {
           "p": 67.46,
@@ -25872,7 +25927,7 @@
         "ДТ": {
           "p": 80.49,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -25897,7 +25952,7 @@
           "92": {
             "p": 62.29,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           },
           "95": {
             "p": 67.46,
@@ -25907,7 +25962,7 @@
           "ДТ": {
             "p": 80.49,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         },
         "meta": {
@@ -26019,14 +26074,14 @@
       "route_km": 974.0,
       "distance_from_route_km": 0.61,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:20:28Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 14:20:28",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -26062,7 +26117,7 @@
         "lon": 73.4818626,
         "addr": "Космический пр-кт, 109",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -26609,7 +26664,7 @@
         "ДТ": {
           "p": 83.1,
           "n": 0,
-          "t": "2026-10-23 16:34:07"
+          "t": "2026-10-23 20:34:07"
         }
       },
       "conflict": null,
@@ -26639,7 +26694,7 @@
           "ДТ": {
             "p": 83.1,
             "n": 0,
-            "t": "2026-10-23 16:34:07"
+            "t": "2026-10-23 20:34:07"
           }
         },
         "meta": {
@@ -26761,7 +26816,7 @@
       "lon": 76.0684096,
       "route_km": 1146.5,
       "distance_from_route_km": 0.04,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T09:13:38Z",
       "last_detail": "92, 95",
@@ -26815,7 +26870,7 @@
         "lat": 55.186078,
         "lon": 76.0684096,
         "addr": "997-й километр автодороги Р-254 \"Иртыш\"",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -26877,14 +26932,14 @@
       "route_km": 1157.2,
       "distance_from_route_km": 0.06,
       "status_raw": "yes",
-      "fuels_now_raw": "",
+      "fuels_now_raw": "95",
       "last_at": "2026-10-23T12:54:47Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, ДТ",
       "latest_comment_at": "2026-10-23 12:54:47",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -26925,7 +26980,7 @@
         "lon": 76.226025,
         "addr": "1008-й километр автодороги Р-254 \"Иртыш\"",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -27071,14 +27126,14 @@
       "route_km": 1291.1,
       "distance_from_route_km": 0.04,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T15:21:45Z",
-      "last_detail": "92, 95",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:02:08Z",
+      "last_detail": "92",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 15:21:45",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 16:02:08",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -27123,7 +27178,7 @@
         "lon": 78.2635987,
         "addr": "1142-й километр автодороги Р-254 \"Иртыш\"",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -27164,8 +27219,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95",
-          "created_at": "2026-10-23 15:21:45",
+          "detail": "92",
+          "created_at": "2026-10-23 16:02:08",
           "edited": false,
           "on_site": true
         }
@@ -27280,13 +27335,13 @@
       "route_km": 1301.7,
       "distance_from_route_km": 8.42,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
-      "last_at": "2026-10-23T12:46:00Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "92",
+      "last_at": "2026-10-23T20:02:20Z",
+      "last_detail": "92",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 12:46:00",
-      "ai95_inferred": "yes",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 20:02:20",
+      "ai95_inferred": "no",
       "ai100_inferred": "no",
       "meta": {
         "f": [
@@ -27322,7 +27377,7 @@
         "lon": 78.3282232,
         "addr": "",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "92",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -27353,8 +27408,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 12:46:00",
+          "detail": "92",
+          "created_at": "2026-10-23 20:02:20",
           "edited": false,
           "on_site": true
         }
@@ -27371,14 +27426,14 @@
       "route_km": 1301.7,
       "distance_from_route_km": 11.45,
       "status_raw": "yes",
-      "fuels_now_raw": "92",
-      "last_at": "2026-10-23T15:50:25Z",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T17:56:07Z",
       "last_detail": "92",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92",
-      "latest_comment_at": "2026-10-23 15:50:25",
-      "ai95_inferred": "no",
-      "ai100_inferred": "no",
+      "latest_comment_at": "2026-10-23 17:56:07",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": null,
       "prices_now": {
         "92": {
@@ -27402,7 +27457,7 @@
         "lon": 78.30340750515462,
         "addr": "ул Чехова, 10",
         "status": "yes",
-        "fuels_now": "92",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -27422,7 +27477,7 @@
         {
           "status": "yes",
           "detail": "92",
-          "created_at": "2026-10-23 15:50:25",
+          "created_at": "2026-10-23 17:56:07",
           "edited": false,
           "on_site": true
         }
@@ -27672,7 +27727,7 @@
       "lon": 80.2847,
       "route_km": 1442.1,
       "distance_from_route_km": 5.69,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T07:31:40Z",
       "last_detail": "ДТ",
@@ -27719,7 +27774,7 @@
         "lat": 55.17222,
         "lon": 80.2847,
         "addr": "ул Ленина, 160",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -27960,14 +28015,14 @@
       "route_km": 1569.5,
       "distance_from_route_km": 1.42,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T15:07:34Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 15:07:34",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -28018,7 +28073,7 @@
         "lon": 82.2296495,
         "addr": "улица Пушкина, 132",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -28194,14 +28249,14 @@
       "route_km": 1584.9,
       "distance_from_route_km": 0.06,
       "status_raw": "yes",
-      "fuels_now_raw": "92",
-      "last_at": "2026-10-23T10:38:02Z",
-      "last_detail": "95",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:17:11Z",
+      "last_detail": "92",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "95",
-      "latest_comment_at": "2026-10-23 10:38:02",
-      "ai95_inferred": "no",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 16:17:11",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -28246,7 +28301,7 @@
         "lon": 82.468991,
         "addr": "Политотдельская улица, 161",
         "status": "yes",
-        "fuels_now": "92",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -28287,8 +28342,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "95",
-          "created_at": "2026-10-23 10:38:02",
+          "detail": "92",
+          "created_at": "2026-10-23 16:17:11",
           "edited": false,
           "on_site": true
         },
@@ -28315,14 +28370,14 @@
       "route_km": 1595.3,
       "distance_from_route_km": 0.06,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:59:33Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 14:59:33",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -28374,7 +28429,7 @@
         "lon": 82.6286254,
         "addr": "Омский тракт, 8",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -28941,13 +28996,13 @@
       "route_km": 1609.1,
       "distance_from_route_km": 3.96,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
-      "last_at": "2026-10-23T15:54:11Z",
-      "last_detail": "95",
+      "fuels_now_raw": "92",
+      "last_at": "2026-10-23T17:42:04Z",
+      "last_detail": "92, 95, 95+, 100, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "95",
-      "latest_comment_at": "2026-10-23 15:54:11",
-      "ai95_inferred": "yes",
+      "latest_comment_detail": "92, 95, 95+, 100, ДТ",
+      "latest_comment_at": "2026-10-23 17:42:04",
+      "ai95_inferred": "no",
       "ai100_inferred": "no",
       "meta": {
         "f": [
@@ -29001,7 +29056,7 @@
         "lon": 82.8449289,
         "addr": "Троллейная улица, 152/2",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "92",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -29050,6 +29105,15 @@
       "recent_comments": [
         {
           "status": "yes",
+          "detail": "92, 95, 95+, 100, ДТ",
+          "created_at": "2026-10-23 17:42:04",
+          "edited": true,
+          "author_reliable": false,
+          "author_tier": 0,
+          "acct_ok": false
+        },
+        {
+          "status": "yes",
           "detail": "95",
           "created_at": "2026-10-23 15:54:11",
           "edited": false,
@@ -29077,7 +29141,7 @@
       "lon": 82.8488228,
       "route_km": 1609.7,
       "distance_from_route_km": 0.05,
-      "status_raw": "yes",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T07:10:06Z",
       "last_detail": "92, 95, ДТ",
@@ -29119,7 +29183,7 @@
         "lat": 54.9972678,
         "lon": 82.8488228,
         "addr": "ул Станционная, 36/1",
-        "status": "yes",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -29179,14 +29243,14 @@
       "route_km": 1609.7,
       "distance_from_route_km": 3.6,
       "status_raw": "yes",
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T07:46:19Z",
-      "last_detail": "92, 95, 95+ · Очередь",
-      "latest_comment_status": "queue",
-      "latest_comment_detail": "92, 95, 95+ · Очередь",
-      "latest_comment_at": "2026-10-23 07:46:19",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T20:10:01Z",
+      "last_detail": "95",
+      "latest_comment_status": "yes",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 20:10:01",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": null,
       "prices_now": {
         "100": {
@@ -29220,7 +29284,7 @@
           "t": "2026-10-19 09:04:01"
         }
       },
-      "conflict": "queue",
+      "conflict": null,
       "dt_only": 0,
       "station_raw": {
         "osm_id": "usr_KxhtL0FdbYg",
@@ -29230,9 +29294,9 @@
         "lon": 82.85438372418774,
         "addr": "ул Троллейная, 83/1",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "95",
         "dt_only": 0,
-        "conflict": "queue",
+        "conflict": null,
         "prices_now": {
           "100": {
             "p": 69.56,
@@ -29268,6 +29332,13 @@
       },
       "recent_comments": [
         {
+          "status": "yes",
+          "detail": "95",
+          "created_at": "2026-10-23 20:10:01",
+          "edited": false,
+          "on_site": true
+        },
+        {
           "status": "queue",
           "detail": "92, 95, 95+ · Очередь",
           "created_at": "2026-10-23 07:46:19",
@@ -29295,13 +29366,6 @@
           "author_reliable": false,
           "author_tier": 0,
           "acct_ok": false
-        },
-        {
-          "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 04:46:40",
-          "edited": false,
-          "on_site": true
         },
         {
           "status": "yes",
@@ -29422,14 +29486,14 @@
       "route_km": 1610.9,
       "distance_from_route_km": 0.65,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:58:26Z",
       "last_detail": "92, 95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95",
       "latest_comment_at": "2026-10-23 14:58:26",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -29481,7 +29545,7 @@
         "lon": 82.8695342,
         "addr": "пр-д Энергетиков, 4",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -29576,14 +29640,14 @@
       "route_km": 1611.5,
       "distance_from_route_km": 1.4,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,ДТ",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:50:04Z",
       "last_detail": "92, 95, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, ДТ",
       "latest_comment_at": "2026-10-23 14:50:04",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -29634,7 +29698,7 @@
         "lon": 82.8762004,
         "addr": "пр-д Энергетиков, 1",
         "status": "yes",
-        "fuels_now": "92,95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -29719,14 +29783,14 @@
       "route_km": 1611.7,
       "distance_from_route_km": 6.2,
       "status_raw": "yes",
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T12:10:45Z",
-      "last_detail": "92",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T19:49:48Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92",
-      "latest_comment_at": "2026-10-23 12:10:45",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 19:49:48",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": null,
       "prices_now": {
         "100": {
@@ -29770,7 +29834,7 @@
         "lon": 82.88889436846986,
         "addr": "ул Петухова, 12а",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -29809,8 +29873,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92",
-          "created_at": "2026-10-23 12:10:45",
+          "detail": "95",
+          "created_at": "2026-10-23 19:49:48",
           "edited": false,
           "on_site": true
         },
@@ -29846,14 +29910,14 @@
       "route_km": 1611.8,
       "distance_from_route_km": 6.5,
       "status_raw": "yes",
-      "fuels_now_raw": "95,ДТ",
-      "last_at": "2026-10-23T13:30:26Z",
-      "last_detail": "92, 95 · Очередь до 15 мин",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T17:03:36Z",
+      "last_detail": "95, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95 · Очередь до 15 мин",
-      "latest_comment_at": "2026-10-23 13:30:26",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "95, ДТ",
+      "latest_comment_at": "2026-10-23 17:03:36",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": null,
       "prices_now": {
         "100": {
@@ -29897,7 +29961,7 @@
         "lon": 82.91087865829469,
         "addr": "ул Петухова, 69/1",
         "status": "yes",
-        "fuels_now": "95,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -29934,6 +29998,15 @@
         }
       },
       "recent_comments": [
+        {
+          "status": "yes",
+          "detail": "95, ДТ",
+          "created_at": "2026-10-23 17:03:36",
+          "edited": false,
+          "author_reliable": false,
+          "author_tier": 0,
+          "acct_ok": false
+        },
         {
           "status": "yes",
           "detail": "92, 95 · Очередь до 15 мин",
@@ -29982,13 +30055,13 @@
       "route_km": 1612.2,
       "distance_from_route_km": 1.62,
       "status_raw": "yes",
-      "fuels_now_raw": "ДТ",
-      "last_at": "2026-10-23T15:04:09Z",
-      "last_detail": "ДТ",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T19:47:46Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "ДТ",
-      "latest_comment_at": "2026-10-23 15:04:09",
-      "ai95_inferred": "no",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 19:47:46",
+      "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
         "f": [
@@ -30032,7 +30105,7 @@
         }
       },
       "conflict": null,
-      "dt_only": 1,
+      "dt_only": 0,
       "station_raw": {
         "osm_id": "1118314335",
         "name": "Газпромнефть",
@@ -30041,8 +30114,8 @@
         "lon": 82.87873,
         "addr": "проезд Энергетиков, 8/1",
         "status": "yes",
-        "fuels_now": "ДТ",
-        "dt_only": 1,
+        "fuels_now": "95",
+        "dt_only": 0,
         "conflict": null,
         "prices_now": {
           "100": {
@@ -30089,8 +30162,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "ДТ",
-          "created_at": "2026-10-23 15:04:09",
+          "detail": "95",
+          "created_at": "2026-10-23 19:47:46",
           "edited": false,
           "on_site": true
         },
@@ -30117,14 +30190,14 @@
       "route_km": 1613.0,
       "distance_from_route_km": 2.99,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,95+,ДТ",
-      "last_at": "2026-10-23T05:24:05Z",
-      "last_detail": "92, 95",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:37:15Z",
+      "last_detail": "92, 95, 95+, ДТ",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95",
-      "latest_comment_at": "2026-10-23 05:24:05",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "92, 95, 95+, ДТ",
+      "latest_comment_at": "2026-10-23 16:37:15",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -30164,7 +30237,7 @@
         "lon": 82.9040373,
         "addr": "ул Немировича-Данченко, 118/2",
         "status": "yes",
-        "fuels_now": "92,95,95+,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -30198,6 +30271,16 @@
         }
       },
       "recent_comments": [
+        {
+          "status": "yes",
+          "detail": "92, 95, 95+, ДТ",
+          "created_at": "2026-10-23 16:37:15",
+          "edited": false,
+          "author_reliable": false,
+          "author_tier": 0,
+          "acct_ok": false,
+          "on_site": false
+        },
         {
           "status": "yes",
           "detail": "92, 95",
@@ -30485,13 +30568,13 @@
       "route_km": 1613.3,
       "distance_from_route_km": 7.02,
       "status_raw": "yes",
-      "fuels_now_raw": "92",
-      "last_at": "2026-10-23T15:03:48Z",
-      "last_detail": "92",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T19:49:58Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92",
-      "latest_comment_at": "2026-10-23 15:03:48",
-      "ai95_inferred": "no",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 19:49:58",
+      "ai95_inferred": "yes",
       "ai100_inferred": "no",
       "meta": {
         "f": [
@@ -30543,7 +30626,7 @@
         "lon": 82.9311209,
         "addr": "улица Петухова, 122/4",
         "status": "yes",
-        "fuels_now": "92",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -30590,8 +30673,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92",
-          "created_at": "2026-10-23 15:03:48",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 19:49:58",
           "edited": false,
           "on_site": true
         },
@@ -30619,11 +30702,11 @@
       "distance_from_route_km": 3.81,
       "status_raw": "yes",
       "fuels_now_raw": "",
-      "last_at": "2026-10-23T13:48:38Z",
-      "last_detail": "92, ДТ",
+      "last_at": "2026-10-23T18:17:48Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, ДТ",
-      "latest_comment_at": "2026-10-23 13:48:38",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 18:17:48",
       "ai95_inferred": "unknown",
       "ai100_inferred": "unknown",
       "meta": null,
@@ -30698,19 +30781,19 @@
       "recent_comments": [
         {
           "status": "yes",
+          "detail": "95",
+          "created_at": "2026-10-23 18:17:48",
+          "edited": false,
+          "on_site": true
+        },
+        {
+          "status": "yes",
           "detail": "92, ДТ",
           "created_at": "2026-10-23 13:48:38",
           "edited": false,
           "author_reliable": false,
           "author_tier": 0,
           "acct_ok": true
-        },
-        {
-          "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 04:55:54",
-          "edited": false,
-          "on_site": true
         },
         {
           "status": "yes",
@@ -30735,14 +30818,14 @@
       "route_km": 1613.4,
       "distance_from_route_km": 1.56,
       "status_raw": "yes",
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T11:12:15Z",
-      "last_detail": "92, 95, 100",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T18:52:14Z",
+      "last_detail": "95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 100",
-      "latest_comment_at": "2026-10-23 11:12:15",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "latest_comment_detail": "95",
+      "latest_comment_at": "2026-10-23 18:52:14",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -30794,7 +30877,7 @@
         "lon": 82.914564,
         "addr": "улица Немировича-Данченко, 136/1",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -30842,8 +30925,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, 100",
-          "created_at": "2026-10-23 11:12:15",
+          "detail": "95",
+          "created_at": "2026-10-23 18:52:14",
           "edited": false,
           "on_site": true
         },
@@ -31019,7 +31102,7 @@
       "lon": 82.94050902128221,
       "route_km": 1613.6,
       "distance_from_route_km": 5.0,
-      "status_raw": "no",
+      "status_raw": null,
       "fuels_now_raw": "",
       "last_at": "2026-10-23T05:31:17Z",
       "last_detail": "",
@@ -31070,7 +31153,7 @@
         "lat": 54.960425903565906,
         "lon": 82.94050902128221,
         "addr": "ул Аникина, 27",
-        "status": "no",
+        "status": null,
         "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
@@ -31371,14 +31454,14 @@
       "route_km": 1615.9,
       "distance_from_route_km": 0.56,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:55:56Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 14:55:56",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -31395,9 +31478,9 @@
           "t": "2026-10-21 08:39:51"
         },
         "92": {
-          "p": 64.38,
-          "n": 1,
-          "t": "2026-10-22 16:50:23"
+          "p": 64.26,
+          "n": 2,
+          "t": "2026-10-23 01:03:51"
         },
         "95": {
           "p": 68.6,
@@ -31406,8 +31489,8 @@
         },
         "95+": {
           "p": 70.9,
-          "n": 1,
-          "t": "2026-10-22 16:50:23"
+          "n": 2,
+          "t": "2026-10-23 01:03:51"
         },
         "98": {
           "p": 69.77,
@@ -31416,8 +31499,8 @@
         },
         "ДТ": {
           "p": 85.21,
-          "n": 1,
-          "t": "2026-10-22 16:50:23"
+          "n": 2,
+          "t": "2026-10-23 01:03:51"
         }
       },
       "conflict": null,
@@ -31430,7 +31513,7 @@
         "lon": 82.9304609,
         "addr": "улица Свердлова, 18",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -31440,9 +31523,9 @@
             "t": "2026-10-21 08:39:51"
           },
           "92": {
-            "p": 64.38,
-            "n": 1,
-            "t": "2026-10-22 16:50:23"
+            "p": 64.26,
+            "n": 2,
+            "t": "2026-10-23 01:03:51"
           },
           "95": {
             "p": 68.6,
@@ -31451,8 +31534,8 @@
           },
           "95+": {
             "p": 70.9,
-            "n": 1,
-            "t": "2026-10-22 16:50:23"
+            "n": 2,
+            "t": "2026-10-23 01:03:51"
           },
           "98": {
             "p": 69.77,
@@ -31461,8 +31544,8 @@
           },
           "ДТ": {
             "p": 85.21,
-            "n": 1,
-            "t": "2026-10-22 16:50:23"
+            "n": 2,
+            "t": "2026-10-23 01:03:51"
           }
         },
         "meta": {
@@ -31534,14 +31617,14 @@
       "route_km": 1615.9,
       "distance_from_route_km": 11.27,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T14:38:41Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:46:22Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 14:38:41",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 16:46:22",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -31564,7 +31647,7 @@
         },
         "95": {
           "p": 68.63,
-          "n": 2,
+          "n": 1,
           "t": "2026-10-23 10:20:34"
         },
         "95+": {
@@ -31593,7 +31676,7 @@
         "lon": 82.9151046,
         "addr": "ул Николая Шипилова, 2",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -31609,7 +31692,7 @@
           },
           "95": {
             "p": 68.63,
-            "n": 2,
+            "n": 1,
             "t": "2026-10-23 10:20:34"
           },
           "95+": {
@@ -31641,8 +31724,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 14:38:41",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 16:46:22",
           "edited": false,
           "on_site": true
         },
@@ -31698,14 +31781,14 @@
       "route_km": 1615.9,
       "distance_from_route_km": 2.36,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T15:47:13Z",
       "last_detail": "92",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92",
       "latest_comment_at": "2026-10-23 15:47:13",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -31757,7 +31840,7 @@
         "lon": 82.9384637,
         "addr": "ул Фрунзе, 122",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -31852,14 +31935,14 @@
       "route_km": 1615.9,
       "distance_from_route_km": 6.33,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
-      "last_at": "2026-10-23T15:56:03Z",
-      "last_detail": "92, 95, ДТ",
+      "fuels_now_raw": "",
+      "last_at": "2026-10-23T16:48:21Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, ДТ",
-      "latest_comment_at": "2026-10-23 15:56:03",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 16:48:21",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -31910,7 +31993,7 @@
         "lon": 82.8925849,
         "addr": "улица Жуковского, 124",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -31957,8 +32040,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, ДТ",
-          "created_at": "2026-10-23 15:56:03",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 16:48:21",
           "edited": false,
           "on_site": true
         },
@@ -32660,14 +32743,14 @@
       "route_km": 1615.9,
       "distance_from_route_km": 6.27,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95+,ДТ",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:26:07Z",
       "last_detail": "92, 95+, ДТ",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95+, ДТ",
       "latest_comment_at": "2026-10-23 14:26:07",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": null,
       "prices_now": {
         "100": {
@@ -32711,7 +32794,7 @@
         "lon": 82.89416313171388,
         "addr": "ул Жуковского, 95А",
         "status": "yes",
-        "fuels_now": "92,95+,ДТ",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -32935,14 +33018,14 @@
       "route_km": 1615.9,
       "distance_from_route_km": 3.72,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,95+",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T15:35:44Z",
       "last_detail": "92, 95, 95+",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95, 95+",
       "latest_comment_at": "2026-10-23 15:35:44",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": null,
       "prices_now": {
         "100": {
@@ -32952,17 +33035,17 @@
         },
         "92": {
           "p": 63.48,
-          "n": 2,
+          "n": 1,
           "t": "2026-10-23 15:35:44"
         },
         "95": {
           "p": 67.81,
-          "n": 2,
+          "n": 1,
           "t": "2026-10-23 15:35:44"
         },
         "95+": {
           "p": 70.11,
-          "n": 2,
+          "n": 1,
           "t": "2026-10-23 15:35:44"
         },
         "98": {
@@ -32986,7 +33069,7 @@
         "lon": 82.964815,
         "addr": "ул Красина, 1",
         "status": "yes",
-        "fuels_now": "92,95,95+",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -32997,17 +33080,17 @@
           },
           "92": {
             "p": 63.48,
-            "n": 2,
+            "n": 1,
             "t": "2026-10-23 15:35:44"
           },
           "95": {
             "p": 67.81,
-            "n": 2,
+            "n": 1,
             "t": "2026-10-23 15:35:44"
           },
           "95+": {
             "p": 70.11,
-            "n": 2,
+            "n": 1,
             "t": "2026-10-23 15:35:44"
           },
           "98": {
@@ -33221,23 +33304,23 @@
       "prices_now": {
         "92": {
           "p": 63.61,
-          "n": 2,
-          "t": "2026-10-23 05:41:25"
+          "n": 1,
+          "t": "2026-10-23 03:44:20"
         },
         "95": {
           "p": 67.94,
-          "n": 3,
-          "t": "2026-10-23 07:20:25"
+          "n": 1,
+          "t": "2026-10-23 03:44:20"
         },
         "95+": {
           "p": 70.24,
-          "n": 2,
-          "t": "2026-10-23 05:41:25"
+          "n": 1,
+          "t": "2026-10-23 03:44:20"
         },
         "ДТ": {
           "p": 84.26,
-          "n": 2,
-          "t": "2026-10-23 05:41:25"
+          "n": 1,
+          "t": "2026-10-23 03:44:20"
         }
       },
       "conflict": null,
@@ -33256,23 +33339,23 @@
         "prices_now": {
           "92": {
             "p": 63.61,
-            "n": 2,
-            "t": "2026-10-23 05:41:25"
+            "n": 1,
+            "t": "2026-10-23 03:44:20"
           },
           "95": {
             "p": 67.94,
-            "n": 3,
-            "t": "2026-10-23 07:20:25"
+            "n": 1,
+            "t": "2026-10-23 03:44:20"
           },
           "95+": {
             "p": 70.24,
-            "n": 2,
-            "t": "2026-10-23 05:41:25"
+            "n": 1,
+            "t": "2026-10-23 03:44:20"
           },
           "ДТ": {
             "p": 84.26,
-            "n": 2,
-            "t": "2026-10-23 05:41:25"
+            "n": 1,
+            "t": "2026-10-23 03:44:20"
           }
         }
       },
@@ -33326,14 +33409,14 @@
       "route_km": 1615.9,
       "distance_from_route_km": 4.36,
       "status_raw": "yes",
-      "fuels_now_raw": "92",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T16:14:36Z",
       "last_detail": "92",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92",
       "latest_comment_at": "2026-10-23 16:14:36",
-      "ai95_inferred": "no",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": null,
       "prices_now": {
         "100": {
@@ -33377,7 +33460,7 @@
         "lon": 82.92624330512864,
         "addr": "ул Кропоткина, 199",
         "status": "yes",
-        "fuels_now": "92",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -34034,14 +34117,14 @@
       "route_km": 1617.6,
       "distance_from_route_km": 14.45,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95,95+,100,ДТ",
-      "last_at": "2026-10-23T15:05:48Z",
-      "last_detail": "92, 95, 95+, 100, ДТ · Очередь до 15 мин",
+      "fuels_now_raw": "92,95",
+      "last_at": "2026-10-23T19:28:38Z",
+      "last_detail": "92, 95",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 95+, 100, ДТ · Очередь до 15 мин",
-      "latest_comment_at": "2026-10-23 15:05:48",
+      "latest_comment_detail": "92, 95",
+      "latest_comment_at": "2026-10-23 19:28:38",
       "ai95_inferred": "yes",
-      "ai100_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": {
         "f": [
           "dt",
@@ -34092,7 +34175,7 @@
         "lon": 83.1448933,
         "addr": "Первомайская улица, 2/1",
         "status": "yes",
-        "fuels_now": "92,95,95+,100,ДТ",
+        "fuels_now": "92,95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -34139,19 +34222,29 @@
       "recent_comments": [
         {
           "status": "yes",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 19:28:38",
+          "edited": false,
+          "author_reliable": false,
+          "author_tier": 0,
+          "acct_ok": true,
+          "on_site": false
+        },
+        {
+          "status": "yes",
+          "detail": "92, 95",
+          "created_at": "2026-10-23 16:50:01",
+          "edited": false,
+          "on_site": true
+        },
+        {
+          "status": "yes",
           "detail": "92, 95, 95+, 100, ДТ · Очередь до 15 мин",
           "created_at": "2026-10-23 15:05:48",
           "edited": false,
           "author_reliable": false,
           "author_tier": 0,
           "acct_ok": false,
-          "on_site": true
-        },
-        {
-          "status": "yes",
-          "detail": "92, 100",
-          "created_at": "2026-10-23 13:35:51",
-          "edited": false,
           "on_site": true
         },
         {
@@ -34173,16 +34266,6 @@
           "author_tier": 3,
           "acct_ok": false,
           "on_site": false
-        },
-        {
-          "status": "yes",
-          "detail": "92, 95, 95+, 98, 100, ДТ · Очередь 15–30 мин",
-          "created_at": "2026-10-23 07:01:54",
-          "edited": false,
-          "author_reliable": true,
-          "author_tier": 1,
-          "acct_ok": true,
-          "on_site": true
         }
       ]
     },
@@ -34336,14 +34419,14 @@
       "route_km": 1617.6,
       "distance_from_route_km": 1.88,
       "status_raw": "yes",
-      "fuels_now_raw": "95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T14:17:30Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
       "latest_comment_at": "2026-10-23 14:17:30",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": {
         "f": [
           "dt",
@@ -34394,7 +34477,7 @@
         "lon": 82.9602639,
         "addr": "Большевистская улица, 131/1",
         "status": "yes",
-        "fuels_now": "95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -34479,14 +34562,14 @@
       "route_km": 1617.6,
       "distance_from_route_km": 7.64,
       "status_raw": "yes",
-      "fuels_now_raw": "92,95",
+      "fuels_now_raw": "",
       "last_at": "2026-10-23T15:05:06Z",
       "last_detail": "92, 95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "92, 95",
       "latest_comment_at": "2026-10-23 15:05:06",
-      "ai95_inferred": "yes",
-      "ai100_inferred": "no",
+      "ai95_inferred": "unknown",
+      "ai100_inferred": "unknown",
       "meta": null,
       "prices_now": {
         "92": {
@@ -34525,7 +34608,7 @@
         "lon": 83.05507739123641,
         "addr": "ул Выборная, 201Г",
         "status": "yes",
-        "fuels_now": "92,95",
+        "fuels_now": "",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -34738,14 +34821,14 @@
       "route_km": 1617.6,
       "distance_from_route_km": 9.93,
       "status_raw": "yes",
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T13:08:05Z",
-      "last_detail": "92, 95, 100, ДТ",
+      "fuels_now_raw": "92",
+      "last_at": "2026-10-23T19:49:42Z",
+      "last_detail": "92",
       "latest_comment_status": "yes",
-      "latest_comment_detail": "92, 95, 100, ДТ",
-      "latest_comment_at": "2026-10-23 13:08:05",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "latest_comment_detail": "92",
+      "latest_comment_at": "2026-10-23 19:49:42",
+      "ai95_inferred": "no",
+      "ai100_inferred": "no",
       "meta": null,
       "prices_now": {
         "100": {
@@ -34789,7 +34872,7 @@
         "lon": 83.06146003610253,
         "addr": "Бердское шоссе, 63",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "92",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -34828,8 +34911,8 @@
       "recent_comments": [
         {
           "status": "yes",
-          "detail": "92, 95, 100, ДТ",
-          "created_at": "2026-10-23 13:08:05",
+          "detail": "92",
+          "created_at": "2026-10-23 19:49:42",
           "edited": false,
           "on_site": true
         },
@@ -34875,14 +34958,14 @@
       "route_km": 1617.6,
       "distance_from_route_km": 6.6,
       "status_raw": "yes",
-      "fuels_now_raw": "",
-      "last_at": "2026-10-23T10:24:21Z",
+      "fuels_now_raw": "95",
+      "last_at": "2026-10-23T18:55:38Z",
       "last_detail": "95",
       "latest_comment_status": "yes",
       "latest_comment_detail": "95",
-      "latest_comment_at": "2026-10-23 10:24:21",
-      "ai95_inferred": "unknown",
-      "ai100_inferred": "unknown",
+      "latest_comment_at": "2026-10-23 18:55:38",
+      "ai95_inferred": "yes",
+      "ai100_inferred": "no",
       "meta": null,
       "prices_now": {
         "100": {
@@ -34926,7 +35009,7 @@
         "lon": 83.02487790584564,
         "addr": "ул Большевистская, 285",
         "status": "yes",
-        "fuels_now": "",
+        "fuels_now": "95",
         "dt_only": 0,
         "conflict": null,
         "prices_now": {
@@ -34966,7 +35049,7 @@
         {
           "status": "yes",
           "detail": "95",
-          "created_at": "2026-10-23 10:24:21",
+          "created_at": "2026-10-23 18:55:38",
           "edited": false,
           "on_site": true
         },
