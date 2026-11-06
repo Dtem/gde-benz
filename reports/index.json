@@ -1,6 +1,6 @@
 {
-  "latest": "history/2026-11-06/0642Z.json",
-  "updated_at": "2026-11-06T06:42:02Z",
+  "latest": "history/2026-11-06/1923Z.json",
+  "updated_at": "2026-11-06T19:23:19Z",
   "snapshots": [
     "history/2026-09-06/1236Z.json",
     "history/2026-09-06/1253Z.json",
@@ -210,6 +210,7 @@
     "history/2026-11-04/1944Z.json",
     "history/2026-11-05/0644Z.json",
     "history/2026-11-05/1955Z.json",
-    "history/2026-11-06/0642Z.json"
+    "history/2026-11-06/0642Z.json",
+    "history/2026-11-06/1923Z.json"
   ]
 }
